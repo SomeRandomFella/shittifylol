@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>truffled skidder</title>
+    <!--no css cause fuck you-->
+  </head>
+  <body>
+    <h1>truffled skidder</h1>
+    <p>skid any games off truffled and get all the files!</p>
+    <div id="shit">
+      <input id="link" placeholder="enter gamelink" />
+      <button id="skid" onclick="skid()">skid</button>
+    </div>
+
+    <script>
+      const linkInput = document.getElementById("link");
+      // there's a better way to skid it but im to lazy
+
+      async function skid() {
+        const link = linkInput.value;
+
+        const urlObj = new URL(link, location.origin);
+        const url = urlObj.searchParams.get("url");
+
+        if (!url) {
+          return alert("you typed it wrong idiot");
+        }
+
+        const res = await fetch(`https://truffled.lol${url}`);
+        if (!res.ok) {
+          return alert("couldnt get html look in console for info");
+        }
+        const html = await res.text();
+      }
+    </script>
+  </body>
+</html>

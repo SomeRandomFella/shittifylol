@@ -1,0 +1,2684 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Monolith",
+      "artist": "Twin Tribes",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=fwGmJbcAUcE",
+      "parts": 1,
+      "cover": "audio/1/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 2,
+      "title": "i dont think we'll ever find him",
+      "artist": "wifiskeleton",
+      "album": "suburban daredevil",
+      "sourceUrl": "https://www.youtube.com/watch?v=ZFbt9nHsLG8",
+      "parts": 1,
+      "cover": "audio/2/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 3,
+      "title": "whore",
+      "artist": "wifiskeleton",
+      "album": "suburban daredevil",
+      "sourceUrl": "https://www.youtube.com/watch?v=6Z222q0VnMc",
+      "parts": 1,
+      "cover": "audio/3/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 4,
+      "title": "i keep calling ...",
+      "artist": "wifiskeleton",
+      "album": "suburban daredevil",
+      "sourceUrl": "https://www.youtube.com/watch?v=32juABcoD8Y",
+      "parts": 1,
+      "cover": "audio/4/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 5,
+      "title": "if you hate me now it would make me proud",
+      "artist": "wifiskeleton",
+      "album": "suburban daredevil",
+      "sourceUrl": "https://www.youtube.com/watch?v=Vkl_hHsg3Vw",
+      "parts": 1,
+      "cover": "audio/5/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 6,
+      "title": "ware me out like old clothes",
+      "artist": "wifiskeleton",
+      "album": "suburban daredevil",
+      "sourceUrl": "https://www.youtube.com/watch?v=vpBlfzUEjjI",
+      "parts": 1,
+      "cover": "audio/6/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 7,
+      "title": "el sonata (an interlude for the parasitic)",
+      "artist": "wifiskeleton",
+      "album": "suburban daredevil",
+      "sourceUrl": "https://www.youtube.com/watch?v=UrvRDKwmoqo",
+      "parts": 1,
+      "cover": "audio/7/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 8,
+      "title": "dont you wanna see me soon",
+      "artist": "wifiskeleton",
+      "album": "suburban daredevil",
+      "sourceUrl": "https://www.youtube.com/watch?v=1grmh1AVH2Q",
+      "parts": 1,
+      "cover": "audio/8/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 9,
+      "title": "suburban daredevil",
+      "artist": "wifiskeleton",
+      "album": "suburban daredevil",
+      "sourceUrl": "https://www.youtube.com/watch?v=p9PYeCF3Ohc",
+      "parts": 1,
+      "cover": "audio/9/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 10,
+      "title": "girl",
+      "artist": "wifiskeleton",
+      "album": "suburban daredevil",
+      "sourceUrl": "https://www.youtube.com/watch?v=GItnRi2H0yw",
+      "parts": 1,
+      "cover": "audio/10/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 11,
+      "title": "party",
+      "artist": "wifiskeleton",
+      "album": "suburban daredevil",
+      "sourceUrl": "https://www.youtube.com/watch?v=5ilvIxfAWG4",
+      "parts": 1,
+      "cover": "audio/11/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 12,
+      "title": "Nope your too late i already died",
+      "artist": "wifiskeleton",
+      "album": "suburban daredevil",
+      "sourceUrl": "https://www.youtube.com/watch?v=I37l6C7UB5w",
+      "parts": 1,
+      "cover": "audio/12/cover.jpg",
+      "dateAdded": "2026-03-01"
+    },
+    {
+      "id": 13,
+      "title": "you don't gotta love me, i just wanted to be yours",
+      "artist": "ayowitty",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=VHSG7XgZx4s",
+      "parts": 1,
+      "cover": "audio/13/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 14,
+      "title": "Playboi Carti - POP OUT (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=-V_GygtBQJo",
+      "parts": 1,
+      "cover": "audio/14/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 15,
+      "title": "Playboi Carti - CRUSH [with Travis Scott] (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=ENeWhozcreU",
+      "parts": 1,
+      "cover": "audio/15/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 16,
+      "title": "Playboi Carti - K POP (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=d14JwYJBotw",
+      "parts": 1,
+      "cover": "audio/16/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 17,
+      "title": "Playboi Carti - EVIL J0RDAN (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=zTKheLpo4nQ",
+      "parts": 1,
+      "cover": "audio/17/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 18,
+      "title": "Playboi Carti - EVIL J0RDAN (Official Visualizer)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=VcRc2DHHhoM",
+      "parts": 1,
+      "cover": "audio/18/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 19,
+      "title": "Playboi Carti - MOJO JOJO (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=w5U7hemoc28",
+      "parts": 1,
+      "cover": "audio/19/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 20,
+      "title": "Playboi Carti - PHILLY [with Travis Scott] (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=C9HeO4F8S4s",
+      "parts": 1,
+      "cover": "audio/20/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 21,
+      "title": "Playboi Carti - RADAR (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=0NzwxhcgPHg",
+      "parts": 1,
+      "cover": "audio/21/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 22,
+      "title": "Playboi Carti & The Weeknd - RATHER LIE (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=fYD7YsSRHOY",
+      "parts": 1,
+      "cover": "audio/22/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 23,
+      "title": "Playboi Carti - FINE SHIT (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=6zZhgmIRCWc",
+      "parts": 1,
+      "cover": "audio/23/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 24,
+      "title": "Playboi Carti - BACKD00R [feat. Kendrick Lamar & Jhene Aiko] (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=4LgZZVGvEyE",
+      "parts": 1,
+      "cover": "audio/24/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 25,
+      "title": "Playboi Carti - TOXIC [with Skepta] (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=U6jeOBSGI6Q",
+      "parts": 1,
+      "cover": "audio/25/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 26,
+      "title": "Playboi Carti - MUNYUN (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=lC87GHJcGOs",
+      "parts": 1,
+      "cover": "audio/26/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 27,
+      "title": "Playboi Carti - CRANK (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=wQZvS109Q00",
+      "parts": 1,
+      "cover": "audio/27/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 28,
+      "title": "Playboi Carti - CHARGE DEM HOES A FEE (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=Q_ad3KnUDvM",
+      "parts": 1,
+      "cover": "audio/28/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 29,
+      "title": "Playboi Carti & Kendrick Lamar - GOOD CREDIT (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=58JU9solXFw",
+      "parts": 1,
+      "cover": "audio/29/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 30,
+      "title": "Playboi Carti - I SEEEE YOU BABY BOI (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=dsycURYcym4",
+      "parts": 1,
+      "cover": "audio/30/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 31,
+      "title": "Playboi Carti - WAKE UP F1LTHY [with Travis Scott] (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=rSMUVaPzlDQ",
+      "parts": 1,
+      "cover": "audio/31/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 32,
+      "title": "Playboi Carti - JUMPIN [with Lil Uzi Vert] (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=iGvT6FA9jFs",
+      "parts": 1,
+      "cover": "audio/32/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 33,
+      "title": "Playboi Carti - TRIM [with Future] (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=7HCSPePbjNQ",
+      "parts": 1,
+      "cover": "audio/33/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 34,
+      "title": "Playboi Carti - COCAINE NOSE (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=6jRQTj_k-1Q",
+      "parts": 1,
+      "cover": "audio/34/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 35,
+      "title": "Playboi Carti - WE NEED ALL DA VIBES [feat. Young Thug & Ty Dolla $ign] (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=z0-aMq362HY",
+      "parts": 1,
+      "cover": "audio/35/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 36,
+      "title": "Playboi Carti - OLYMPIAN (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=mj4yh7YrwfE",
+      "parts": 1,
+      "cover": "audio/36/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 37,
+      "title": "Playboi Carti - OPM BABI (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=9Rk2tuhNaoU",
+      "parts": 1,
+      "cover": "audio/37/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 38,
+      "title": "Playboi Carti - TRIM TWIN [with Lil Uzi Vert] (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=hE9YyZlmEQI",
+      "parts": 1,
+      "cover": "audio/38/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 39,
+      "title": "Playboi Carti - LIKE WEEZY (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=ynecLJYrZaA",
+      "parts": 1,
+      "cover": "audio/39/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 40,
+      "title": "Playboi Carti - DIS 1 GOT IT (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=jkegt9A9BOE",
+      "parts": 1,
+      "cover": "audio/40/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 41,
+      "title": "Playboi Carti - WALK (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=gyQzoQcchvI",
+      "parts": 1,
+      "cover": "audio/41/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 42,
+      "title": "Playboi Carti - HBA (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=QTLqujvTGrg",
+      "parts": 1,
+      "cover": "audio/42/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 43,
+      "title": "Playboi Carti - OVERLY (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=PDpho-UwyBA",
+      "parts": 1,
+      "cover": "audio/43/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 44,
+      "title": "Playboi Carti - SOUTH ATLANTA BABY (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "sourceUrl": "https://www.youtube.com/watch?v=j-K4bzjkHq0",
+      "parts": 1,
+      "cover": "audio/44/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 45,
+      "title": "Playboi Carti - Rockstar Made (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=EwdsnGfrd-k",
+      "parts": 1,
+      "cover": "audio/45/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 46,
+      "title": "Playboi Carti ft. Kanye West - Go2DaMoon (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=xuXQMab_X0Y",
+      "parts": 1,
+      "cover": "audio/46/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 47,
+      "title": "Playboi Carti - Stop Breathing (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=JRK_in-dkRY",
+      "parts": 1,
+      "cover": "audio/47/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 48,
+      "title": "Playboi Carti - Beno! (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=rYkkE6gkAWA",
+      "parts": 1,
+      "cover": "audio/48/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 49,
+      "title": "Playboi Carti - Jump Out The House (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=D7WLZ-OCIlU",
+      "parts": 1,
+      "cover": "audio/49/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 50,
+      "title": "Playboi Carti ft. Kid Cudi - M3tamorphosis (Official Video)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=wGBsIelFe-E",
+      "parts": 1,
+      "cover": "audio/50/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 51,
+      "title": "Playboi Carti - Slay3r (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=a0DJDF0uSek",
+      "parts": 1,
+      "cover": "audio/51/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 52,
+      "title": "Playboi Carti - NoSl33p (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=QicMBfKdPxU",
+      "parts": 1,
+      "cover": "audio/52/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 53,
+      "title": "Playboi Carti - New Tank (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=nQC6MyBHceE",
+      "parts": 1,
+      "cover": "audio/53/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 54,
+      "title": "Playboi Carti ft. Future - TeenX (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=6nBdw2RtstI",
+      "parts": 1,
+      "cover": "audio/54/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 55,
+      "title": "Playboi Carti - Meh (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=kdHGNJgTnJo",
+      "parts": 1,
+      "cover": "audio/55/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 56,
+      "title": "Playboi Carti - Vamp Anthem (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=2a-AK_39xg8",
+      "parts": 1,
+      "cover": "audio/56/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 57,
+      "title": "Playboi Carti - New N3on (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=mUip00JK_rU",
+      "parts": 1,
+      "cover": "audio/57/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 58,
+      "title": "Playboi Carti - Control (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=1VYpviOfnkw",
+      "parts": 1,
+      "cover": "audio/58/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 59,
+      "title": "Playboi Carti - Punk Monk (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=QrYtTe9aTRc",
+      "parts": 1,
+      "cover": "audio/59/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 60,
+      "title": "Playboi Carti - On That Time (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=2TjbF0FmEMI",
+      "parts": 1,
+      "cover": "audio/60/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 61,
+      "title": "Playboi Carti - King Vamp (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=4PXVUBLjLNc",
+      "parts": 1,
+      "cover": "audio/61/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 62,
+      "title": "Playboi Carti - Place (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=OtODGvnXleY",
+      "parts": 1,
+      "cover": "audio/62/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 63,
+      "title": "Playboi Carti - Sky (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=GYE9H4SMq5E",
+      "parts": 1,
+      "cover": "audio/63/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 64,
+      "title": "Playboi Carti - Over (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=U93kSTdLfdY",
+      "parts": 1,
+      "cover": "audio/64/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 65,
+      "title": "Playboi Carti - ILoveUIHateU (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=pZ6oeHV28b0",
+      "parts": 1,
+      "cover": "audio/65/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 66,
+      "title": "Playboi Carti - Die4Guy (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=wmrOfzAu7LI",
+      "parts": 1,
+      "cover": "audio/66/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 67,
+      "title": "Playboi Carti - Not Playing (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=BgndpNStbcc",
+      "parts": 1,
+      "cover": "audio/67/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 68,
+      "title": "Playboi Carti - F33l Lik3 Dyin (Official Audio)",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "sourceUrl": "https://www.youtube.com/watch?v=UHNxJt52OFc",
+      "parts": 1,
+      "cover": "audio/68/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 69,
+      "title": "YE - KING",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=Aj-nPW-VEuo",
+      "parts": 1,
+      "cover": "audio/69/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 70,
+      "title": "YE - THIS A MUST",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=NpcrGA3Mafg",
+      "parts": 1,
+      "cover": "audio/70/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 71,
+      "title": "YE - FATHER (feat. TRAVIS SCOTT)",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=HBMy-y2wb4I",
+      "parts": 1,
+      "cover": "audio/71/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 72,
+      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=U2beixNMeWA",
+      "parts": 1,
+      "cover": "audio/72/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 73,
+      "title": "YE - PUNCH DRUNK",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=H8bOPB65z3Q",
+      "parts": 1,
+      "cover": "audio/73/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 74,
+      "title": "YE - WHATEVER WORKS",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=SNCqYFYMkT8",
+      "parts": 1,
+      "cover": "audio/74/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 75,
+      "title": "YE - MAMA'S FAVORITE",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=8jDVdq70zUI",
+      "parts": 1,
+      "cover": "audio/75/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 76,
+      "title": "YE - SISTERS AND BROTHERS",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=iAwxgcVolYw",
+      "parts": 1,
+      "cover": "audio/76/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 77,
+      "title": "YE - BULLY (feat. CEELO GREEN)",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=vrCD-rHYasU",
+      "parts": 1,
+      "cover": "audio/77/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 78,
+      "title": "YE - HIGHS AND LOWS",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=kt_0b4RwerY",
+      "parts": 1,
+      "cover": "audio/78/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 79,
+      "title": "YE - I CAN'T WAIT",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=Tsn1Te8zEqw",
+      "parts": 1,
+      "cover": "audio/79/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 80,
+      "title": "YE - WHITE LINES (feat. ANDRÉ TROUTMAN)",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=uA5w3_j-_gM",
+      "parts": 1,
+      "cover": "audio/80/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 81,
+      "title": "YE - PREACHER MAN",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=zDjpcmvZbTM",
+      "parts": 1,
+      "cover": "audio/81/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 82,
+      "title": "YE - BEAUTY AND THE BEAST",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=0PtGHr3o5hc",
+      "parts": 1,
+      "cover": "audio/82/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 83,
+      "title": "YE - DAMN",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=lqzR7yMmQYs",
+      "parts": 1,
+      "cover": "audio/83/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 84,
+      "title": "YE - LAST BREATH (feat. PESO PLUMA)",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=_3geU-_6Srg",
+      "parts": 1,
+      "cover": "audio/84/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 85,
+      "title": "YE - THIS ONE HERE",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "sourceUrl": "https://www.youtube.com/watch?v=ijKo1XyVN0s",
+      "parts": 1,
+      "cover": "audio/85/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 86,
+      "title": "HD Wapple Rap Full",
+      "artist": "keivmän",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=_fGqYZ7YMJ8",
+      "parts": 1,
+      "cover": "audio/86/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 87,
+      "title": "TUNG SAHUR FUNK",
+      "artist": "TRXSHBXY, GAVORN",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=FjdFlE_Cacs",
+      "parts": 1,
+      "cover": "audio/87/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 88,
+      "title": "001. Once Upon a Time (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=0AQMAth2gio",
+      "parts": 1,
+      "cover": "audio/88/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 89,
+      "title": "002. Start Menu (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=5BrJzFtOnwo",
+      "parts": 1,
+      "cover": "audio/89/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 90,
+      "title": "003. Your Best Friend (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=MacoenOy9Ss",
+      "parts": 1,
+      "cover": "audio/90/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 91,
+      "title": "004. Fallen Down (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=3t-6qAQH_bQ",
+      "parts": 1,
+      "cover": "audio/91/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 92,
+      "title": "005. Ruins (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=oHZDWwW6iXs",
+      "parts": 1,
+      "cover": "audio/92/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 93,
+      "title": "006. Uwa!! So Temperate♫ (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=wvT8KrI1nvo",
+      "parts": 1,
+      "cover": "audio/93/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 94,
+      "title": "007. Anticipation (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=kft3ZUYNiwE",
+      "parts": 1,
+      "cover": "audio/94/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 95,
+      "title": "008. Unnecessary Tension (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=gEgy7xzAYZY",
+      "parts": 1,
+      "cover": "audio/95/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 96,
+      "title": "009. Enemy Approaching (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=g6cK5c_59YQ",
+      "parts": 1,
+      "cover": "audio/96/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 97,
+      "title": "010. Ghost Fight (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=C_5enfN8V8w",
+      "parts": 1,
+      "cover": "audio/97/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 98,
+      "title": "011. Determination (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=sRLQnlglfrI",
+      "parts": 1,
+      "cover": "audio/98/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 99,
+      "title": "012. Home (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=0UkRqMFMZic",
+      "parts": 1,
+      "cover": "audio/99/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 100,
+      "title": "013. Home (Music Box) (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=vC1GAZ62NPg",
+      "parts": 1,
+      "cover": "audio/100/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 101,
+      "title": "014. Heartache (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=mNWArmA5wMw",
+      "parts": 1,
+      "cover": "audio/101/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 102,
+      "title": "015. sans. (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=9cGrP9w5E7M",
+      "parts": 1,
+      "cover": "audio/102/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 103,
+      "title": "016. Nyeh Heh Heh! (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=T6f1jYcjR_8",
+      "parts": 1,
+      "cover": "audio/103/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 104,
+      "title": "017. Snowy (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=QZ1Jp-Wg7b0",
+      "parts": 1,
+      "cover": "audio/104/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 105,
+      "title": "018. Uwa!! So Holiday♫ (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=ANpMdkf6q7E",
+      "parts": 1,
+      "cover": "audio/105/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 106,
+      "title": "019. Dogbass (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=meUZ2HjwJ0o",
+      "parts": 1,
+      "cover": "audio/106/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 107,
+      "title": "020. Mysterious Place (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=ewxpqe2btu8",
+      "parts": 1,
+      "cover": "audio/107/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 108,
+      "title": "021. Dogsong (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=EWP9Nr7IxUU",
+      "parts": 1,
+      "cover": "audio/108/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 109,
+      "title": "022. Snowdin Town (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=LETChg7kPJo",
+      "parts": 1,
+      "cover": "audio/109/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 110,
+      "title": "023. Shop (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=O6H_zN2fezE",
+      "parts": 1,
+      "cover": "audio/110/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 111,
+      "title": "024. Bonetrousle (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=mLsWDkF_LIc",
+      "parts": 1,
+      "cover": "audio/111/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 112,
+      "title": "025. Dating Start! (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=puwOdeKHAKY",
+      "parts": 1,
+      "cover": "audio/112/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 113,
+      "title": "026. Dating Tense! (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=j0O3RFCzI_A",
+      "parts": 1,
+      "cover": "audio/113/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 114,
+      "title": "027. Dating Fight! (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=e9YJ1D6HbAU",
+      "parts": 1,
+      "cover": "audio/114/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 115,
+      "title": "028. Premonition (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=Yk8EQW0TJ3U",
+      "parts": 1,
+      "cover": "audio/115/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 116,
+      "title": "029. Danger Mystery (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=aeALZoOiDPs",
+      "parts": 1,
+      "cover": "audio/116/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 117,
+      "title": "030. Undyne (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=rBR_IvHe3Xg",
+      "parts": 1,
+      "cover": "audio/117/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 118,
+      "title": "031. Waterfall (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=DVUh7caufKU",
+      "parts": 1,
+      "cover": "audio/118/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 119,
+      "title": "032. Run! (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=XLxNMt-2qMU",
+      "parts": 1,
+      "cover": "audio/119/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 120,
+      "title": "033. Quiet Water (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=4LfRKEovz2Y",
+      "parts": 1,
+      "cover": "audio/120/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 121,
+      "title": "034. Memory (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=rtb0N-JQ79k",
+      "parts": 1,
+      "cover": "audio/121/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 122,
+      "title": "035. Bird That Carries You Over A Disproportionately Small Gap (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=lV28xl-YKw4",
+      "parts": 1,
+      "cover": "audio/122/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 123,
+      "title": "036. Dummy! (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=FbtgN-lqRHA",
+      "parts": 1,
+      "cover": "audio/123/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 124,
+      "title": "037. Pathetic House (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=H8OIvglCJp8",
+      "parts": 1,
+      "cover": "audio/124/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 125,
+      "title": "038. Spooktune (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=lV65zxK61cI",
+      "parts": 1,
+      "cover": "audio/125/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 126,
+      "title": "039. Spookwave (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=DRIOFUDEpLY",
+      "parts": 1,
+      "cover": "audio/126/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 127,
+      "title": "040. Ghouliday (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=J-rPVhWEq18",
+      "parts": 1,
+      "cover": "audio/127/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 128,
+      "title": "041. Chill (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=dASRdXkHmq4",
+      "parts": 1,
+      "cover": "audio/128/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 129,
+      "title": "042. Thundersnail (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=vdlFq3d_Ioc",
+      "parts": 1,
+      "cover": "audio/129/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 130,
+      "title": "043. Temmie Village (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=W_KIzOudAlY",
+      "parts": 1,
+      "cover": "audio/130/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 131,
+      "title": "044. Tem Shop (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=OKJYbjxdHpg",
+      "parts": 1,
+      "cover": "audio/131/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 132,
+      "title": "045. NGAHHH!! (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=IpShDXqs74Q",
+      "parts": 1,
+      "cover": "audio/132/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 133,
+      "title": "046. Spear of Justice (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=XGzYhJcm-Jw",
+      "parts": 1,
+      "cover": "audio/133/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 134,
+      "title": "047. Ooo (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=kfwEtdUyK_4",
+      "parts": 1,
+      "cover": "audio/134/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 135,
+      "title": "048. Alphys (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=gaCaF-MbkzQ",
+      "parts": 1,
+      "cover": "audio/135/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 136,
+      "title": "049. It's Showtime! (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=EviIkV2CmcM",
+      "parts": 1,
+      "cover": "audio/136/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 137,
+      "title": "050. Metal Crusher (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=Lt7pB78SGbY",
+      "parts": 1,
+      "cover": "audio/137/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 138,
+      "title": "051. Another Medium (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=NP4sPRIyHKM",
+      "parts": 1,
+      "cover": "audio/138/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 139,
+      "title": "052. Uwa!! So HEATS!!♫ (UNDERTALE Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "album": "UNDERTALE Soundtrack",
+      "sourceUrl": "https://www.youtube.com/watch?v=JPXAXHlcXFs",
+      "parts": 1,
+      "cover": "audio/139/cover.jpg",
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "id": 140,
+      "title": "Michael Jackson - Thriller (Official 4K Video)",
+      "artist": "Michael Jackson",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=sOnqjkJTMaA",
+      "parts": 1,
+      "cover": "audio/140/cover.jpg",
+      "dateAdded": "2026-04-14"
+    },
+    {
+      "id": 141,
+      "title": "EsDeeKid & Rico Ace - Phantom",
+      "artist": "EsDeeKid",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=hmdzniMJOZs",
+      "parts": 1,
+      "cover": "audio/141/cover.jpg",
+      "dateAdded": "2026-04-14"
+    },
+    {
+      "id": 142,
+      "title": "4 Raws",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "sourceUrl": "https://www.youtube.com/watch?v=gt_Oe2yGE4o",
+      "parts": 1,
+      "cover": "audio/142/cover.jpg",
+      "dateAdded": "2026-04-14"
+    },
+    {
+      "id": 143,
+      "title": "Cali Man",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "sourceUrl": "https://www.youtube.com/watch?v=Q5nACsDOkNA",
+      "parts": 1,
+      "cover": "audio/143/cover.jpg",
+      "dateAdded": "2026-04-14"
+    },
+    {
+      "id": 144,
+      "title": "Prague",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "sourceUrl": "https://www.youtube.com/watch?v=cfeg_fv5H2g",
+      "parts": 1,
+      "cover": "audio/142/cover.jpg",
+      "dateAdded": "2026-04-14"
+    },
+    {
+      "id": 145,
+      "title": "Dirty",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "sourceUrl": "https://www.youtube.com/watch?v=OXZzIIg9RFA",
+      "parts": 1,
+      "cover": "audio/142/cover.jpg",
+      "dateAdded": "2026-04-14"
+    },
+    {
+      "id": 146,
+      "title": "LV Sandals",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "sourceUrl": "https://www.youtube.com/watch?v=OGLZg4t7g4I",
+      "parts": 1,
+      "cover": "audio/146/cover.jpg",
+      "dateAdded": "2026-04-14"
+    },
+    {
+      "id": 147,
+      "title": "Panic",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "sourceUrl": "https://www.youtube.com/watch?v=b1Nvm8AK0pY",
+      "parts": 1,
+      "cover": "audio/142/cover.jpg",
+      "dateAdded": "2026-04-14"
+    },
+    {
+      "id": 148,
+      "title": "EsDeeKid & Fimiguerrero - 5am",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "sourceUrl": "https://www.youtube.com/watch?v=Kt9Yod0KgsM",
+      "parts": 1,
+      "cover": "audio/142/cover.jpg",
+      "dateAdded": "2026-04-14"
+    },
+    {
+      "id": 149,
+      "title": "Mist",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "sourceUrl": "https://www.youtube.com/watch?v=kK0Vd3daL_o",
+      "parts": 1,
+      "cover": "audio/143/cover.jpg",
+      "dateAdded": "2026-04-14"
+    },
+    {
+      "id": 150,
+      "title": "Rottweiler",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "sourceUrl": "https://www.youtube.com/watch?v=dddCZfURcko",
+      "parts": 1,
+      "cover": "audio/142/cover.jpg",
+      "dateAdded": "2026-04-14"
+    },
+    {
+      "id": 151,
+      "title": "Big Poe",
+      "artist": "Tyler， The Creator",
+      "album": "DON'T TAP THE GLASS",
+      "sourceUrl": "https://www.youtube.com/watch?v=IGXS45Gp8jA",
+      "parts": 1,
+      "cover": "audio/151/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 152,
+      "title": "SUGAR ON MY TONGUE (Official Video)",
+      "artist": "Tyler, The Creator",
+      "album": "DON'T TAP THE GLASS",
+      "sourceUrl": "https://www.youtube.com/watch?v=ljHdccyQbT4",
+      "parts": 1,
+      "cover": "audio/152/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 153,
+      "title": "SUCKA FREE",
+      "artist": "Tyler, The Creator",
+      "album": "DON'T TAP THE GLASS",
+      "sourceUrl": "https://www.youtube.com/watch?v=62QeYxNkKfo",
+      "parts": 1,
+      "cover": "audio/152/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 154,
+      "title": "Mommanem",
+      "artist": "Tyler， The Creator",
+      "album": "DON'T TAP THE GLASS",
+      "sourceUrl": "https://www.youtube.com/watch?v=K3vKHMkWm1o",
+      "parts": 1,
+      "cover": "audio/154/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 155,
+      "title": "STOP PLAYING WITH ME (Official Video)",
+      "artist": "Tyler, The Creator",
+      "album": "DON'T TAP THE GLASS",
+      "sourceUrl": "https://www.youtube.com/watch?v=pmlqEKklWqs",
+      "parts": 1,
+      "cover": "audio/152/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 156,
+      "title": "Ring Ring Ring",
+      "artist": "Tyler， The Creator",
+      "album": "DON'T TAP THE GLASS",
+      "sourceUrl": "https://www.youtube.com/watch?v=U85bOgG7DWM",
+      "parts": 1,
+      "cover": "audio/154/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 157,
+      "title": "Don't Tap That Glass / Tweakin'",
+      "artist": "Tyler， The Creator",
+      "album": "DON'T TAP THE GLASS",
+      "sourceUrl": "https://www.youtube.com/watch?v=OKVi6jPdE8c",
+      "parts": 1,
+      "cover": "audio/154/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 158,
+      "title": "Don't You Worry Baby",
+      "artist": "Tyler， The Creator",
+      "album": "DON'T TAP THE GLASS",
+      "sourceUrl": "https://www.youtube.com/watch?v=vaqHcZwlVQM",
+      "parts": 1,
+      "cover": "audio/158/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 159,
+      "title": "I'll Take Care of You",
+      "artist": "Tyler， The Creator",
+      "album": "DON'T TAP THE GLASS",
+      "sourceUrl": "https://www.youtube.com/watch?v=O3GONS2o1sM",
+      "parts": 1,
+      "cover": "audio/159/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 160,
+      "title": "Tell Me What It Is",
+      "artist": "Tyler， The Creator",
+      "album": "DON'T TAP THE GLASS",
+      "sourceUrl": "https://www.youtube.com/watch?v=Gl6vO3Y5ae4",
+      "parts": 1,
+      "cover": "audio/154/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 161,
+      "title": "St. Chroma",
+      "artist": "Tyler， The Creator, Daniel Caesar",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=hCcwCv3G1FQ",
+      "parts": 1,
+      "cover": "audio/161/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 162,
+      "title": "Rah Tah Tah",
+      "artist": "Tyler， The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=R_clisSImS4",
+      "parts": 1,
+      "cover": "audio/162/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 163,
+      "title": "NOID",
+      "artist": "Tyler, The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=Qer3lwd5hyA",
+      "parts": 1,
+      "cover": "audio/163/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 164,
+      "title": "DARLING, I (Official Video)",
+      "artist": "Tyler, The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=kZfz5UlsHlQ",
+      "parts": 1,
+      "cover": "audio/163/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 165,
+      "title": "Hey Jane",
+      "artist": "Tyler， The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=qFfjnPOXmUM",
+      "parts": 1,
+      "cover": "audio/162/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 166,
+      "title": "I Killed You",
+      "artist": "Tyler， The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=bKTmpKPjJxs",
+      "parts": 1,
+      "cover": "audio/162/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 167,
+      "title": "Judge Judy",
+      "artist": "Tyler， The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=FQUI8KmRUw0",
+      "parts": 1,
+      "cover": "audio/162/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 168,
+      "title": "Sticky",
+      "artist": "Tyler， The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=16KSivdIGjQ",
+      "parts": 1,
+      "cover": "audio/168/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 169,
+      "title": "Take Your Mask Off",
+      "artist": "Tyler， The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=JPOjiXoPmOk",
+      "parts": 1,
+      "cover": "audio/169/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 170,
+      "title": "Tomorrow",
+      "artist": "Tyler， The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=n2KOgQJbZAw",
+      "parts": 1,
+      "cover": "audio/162/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 171,
+      "title": "Thought I Was Dead",
+      "artist": "Tyler， The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=HS1OUFCfFdY",
+      "parts": 1,
+      "cover": "audio/171/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 172,
+      "title": "Like Him",
+      "artist": "Tyler， The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=dgUHE8wWhiE",
+      "parts": 1,
+      "cover": "audio/172/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 173,
+      "title": "Balloon",
+      "artist": "Tyler， The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=eZNxD4NbxLA",
+      "parts": 1,
+      "cover": "audio/173/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 174,
+      "title": "I Hope You Find Your Way Home",
+      "artist": "Tyler， The Creator",
+      "album": "CHROMAKOPIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=AUA3_lX6g-s",
+      "parts": 1,
+      "cover": "audio/162/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 175,
+      "title": "IGOR'S THEME",
+      "artist": "Tyler， The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=6S20mJvr4vs",
+      "parts": 1,
+      "cover": "audio/175/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 176,
+      "title": "EARFQUAKE",
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=HmAsUQEFYGI",
+      "parts": 1,
+      "cover": "audio/176/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 177,
+      "title": "I THINK",
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=rkRdgFvuiYk",
+      "parts": 1,
+      "cover": "audio/176/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 178,
+      "title": "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING",
+      "artist": "Tyler， The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=dqZ8vr_Q4UI",
+      "parts": 1,
+      "cover": "audio/175/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 179,
+      "title": "RUNNING OUT OF TIME",
+      "artist": "Tyler， The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=Uyf_lImpdRw",
+      "parts": 1,
+      "cover": "audio/175/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 180,
+      "title": "NEW MAGIC WAND",
+      "artist": "Tyler， The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=2w8KUgIkAu8",
+      "parts": 1,
+      "cover": "audio/175/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 181,
+      "title": "A BOY IS A GUN*",
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=9JQDPjpfiGw",
+      "parts": 1,
+      "cover": "audio/176/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 182,
+      "title": "PUPPET",
+      "artist": "Tyler， The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=OZzfUagtyPE",
+      "parts": 1,
+      "cover": "audio/175/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 183,
+      "title": "WHAT'S GOOD",
+      "artist": "Tyler， The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=on7pfd91cKc",
+      "parts": 1,
+      "cover": "audio/175/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 184,
+      "title": "GONE, GONE / THANK YOU",
+      "artist": "Tyler， The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=pVInBRkoKgY",
+      "parts": 1,
+      "cover": "audio/175/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 185,
+      "title": "I DON'T LOVE YOU ANYMORE",
+      "artist": "Tyler， The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=ZJsJ07vk23o",
+      "parts": 1,
+      "cover": "audio/175/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 186,
+      "title": "ARE WE STILL FRIENDS?",
+      "artist": "Tyler， The Creator",
+      "album": "IGOR",
+      "sourceUrl": "https://www.youtube.com/watch?v=Gb76TgCUqAY",
+      "parts": 1,
+      "cover": "audio/175/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 187,
+      "title": "Nirvana - Smells Like Teen Spirit (Official Music Video)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=hTWKbfoikeg",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 188,
+      "title": "Nirvana - In Bloom (Official Music Video)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=PbgKEjNBHqM",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 189,
+      "title": "Nirvana - Come As You Are (Official Music Video)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=vabnZ9-ex7o",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 190,
+      "title": "Nirvana - Breed (Audio)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=J6EDW5WFb2M",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 191,
+      "title": "Nirvana - Lithium (Official Music Video)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=pkcJEvMcnEg",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 192,
+      "title": "Nirvana - Polly (Audio)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=DrlaVYKWeLU",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 193,
+      "title": "Nirvana - Territorial Pissings (Audio)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=9yNPgx0swCM",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 194,
+      "title": "Nirvana - Drain You (Audio)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=AJUpHxlJUNQ",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 195,
+      "title": "Nirvana - Lounge Act (Audio)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=dZqpol8Yrq8",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 196,
+      "title": "Nirvana - Stay Away (Audio)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=vnHm-u4IYuo",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 197,
+      "title": "Nirvana - Something In The Way (Audio)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=4VxdufqB9zg",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 198,
+      "title": "Nirvana - Endless, Nameless (Audio)",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "sourceUrl": "https://www.youtube.com/watch?v=uj1PagCfejs",
+      "parts": 1,
+      "cover": "audio/187/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 199,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Turnabout Beginnings",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=Zg_2xTUwyZA",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 200,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Courtroom Lobby ~ Neverending Overture",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=QI_0ECz59ug",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 201,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Trial",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=_TePxy7Hc3M",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 202,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Questioning ~ Moderato 2004",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=9IoF2nhr1Jk",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 203,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Phoenix Wright ~ Objection! 2004",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=lpSpJqFVMtc",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 204,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Questioning ~ Allegro 2004",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=b6pvnwwbNFA",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 205,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Pressing Pursuit ~ Caught",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=wP1DJ_D4chA",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 206,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Telling the Truth 2004",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=UtXiYk1WUwQ",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 207,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Pressing Pursuit ~ Caught - Variation",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=DCm4mlQi4Rc",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 208,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Dahlia Hawthorne ~ Distant Traces of Beauty",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=5quxFte-97o",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 209,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Godot ~ The Fragrance of Black Coffee",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=2DTjNriHboA",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 210,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Jingle ~ Can't Go Back to a Normal Life",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=vru3V9XcNDc",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 211,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Investigation ~ Opening 2004",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=_6nkTj26ghk",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 212,
+      "title": "Phoenix Wright: Trials and Tribulations OST - The Stolen Turnabout",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=V-DUwGZiN_E",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 213,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Lordly Tailor Department Store",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=JKXJSVafDag",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 214,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Detention Center ~ Prisoner's Elegy",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=xBk1GIy3m4I",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 215,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Mask☆deMasque ~ Pleeeeease Listen!",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=t1rjTDfLhLM",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 216,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Luke Atmey ~ I Just Want Love",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=QJa9u_5_zK4",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 217,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Larry Butz ~ When Something Smells, It's Usually Me",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ry87VcpXwjo",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 218,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Recipe for Turnabout",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=Bag1lm8CA4M",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 219,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Beauty Hermitage",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=ZI0JFEHElUA",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 220,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Victor Kudo ~ A Painful Declaration, and a War Song",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=MIQXomPzm2I",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 221,
+      "title": "Furio Tigre ~ Swingin' Tiger",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=iFQ8wVjTPiE",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 222,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Recollection ~ You Have Regrets",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=maqy9IuJjCo",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 223,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Turnabout Beginnings",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=o7GMQvoJmQQ",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 224,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Recollection ~ The Scenery Seen from Dusky Bridge",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=76RcshkmOYk",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 225,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Hazakura Temple",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=yDHWjWSxj2s",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 226,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Elise Deauxnim ~ Gentle Melody",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=i_t_dhE1zIE",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 227,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Investigation ~ Middle Stage 2004",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=6TjCzeXciV0",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 228,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Recollection ~ The Bitter Taste of Truth",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=S-DHBEW9Lc8",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 229,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Pressing Pursuit ~ Cornered 2004",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=hU6SWlTmapk",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 230,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Victory! Endless Victory",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=Hy-qT6qfZSA",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 231,
+      "title": "Phoenix Wright: Trials and Tribulations OST - End",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=8bzmOd8KP7c",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 232,
+      "title": "Phoenix Wright: Trials and Tribulations OST - Ringtone / Godot",
+      "artist": "Gyakuten Saiban Sound Box",
+      "album": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "sourceUrl": "https://www.youtube.com/watch?v=8U35ENOCOdI",
+      "parts": 1,
+      "cover": "audio/199/cover.jpg",
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "id": 233,
+      "title": "Green Day - 2000 Light Years Away",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=Yhea380bYp0",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 234,
+      "title": "Green Day - Longview [Official Music Video] (4K Upgrade)",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=42BBdzzgPNM",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 235,
+      "title": "Green Day - Welcome To Paradise [Live]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=OR7R9Kuw2fY",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 236,
+      "title": "Green Day - Basket Case [Official Music Video] (4K Upgrade)",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=NUTGr5t3MoY",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 237,
+      "title": "Green Day - When I Come Around [Official Music Video] (4K Upgrade)",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=i8dh9gDzmz8",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 238,
+      "title": "Green Day - She (Official Audio)",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=cXGSKEjR6_U",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 239,
+      "title": "Brain Stew",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=5n_I68l4mfA",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 240,
+      "title": "Green Day - Hitchin' A Ride (Video)",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=4Sc81yxo600",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 241,
+      "title": "Green Day - Good Riddance (Time of Your Life) [Official Music Video] [4K UPGRADE]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=CnQ8N1KacJc",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 242,
+      "title": "Green Day - Minority (HD Upscale) [Official Music Video]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=cDBlqu6KF4k",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 243,
+      "title": "Green Day - Warning (HD Upscale) [Official Music Video]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=eebfMFzJHNs",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 244,
+      "title": "Green Day - American Idiot [Official Music Video] [4K Upgrade]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ee_uujKuJMI",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 245,
+      "title": "Green Day - Holiday [Official Music Video] [4K Upgrade]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=A1OqtIqzScI",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 246,
+      "title": "Green Day - Boulevard Of Broken Dreams [Official Music Video] [4K Upgrade]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=Soa3gO7tL-c",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 247,
+      "title": "Green Day - Wake Me Up When September Ends [Official Music Video] [4K Upgrade]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=NU9JoFKlaZ0",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 248,
+      "title": "Green Day - Know Your Enemy [Official Music Video]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=9IclmVdWNbI",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 249,
+      "title": "Green Day - 21 Guns [Official Music Video]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=r00ikilDxW4",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 250,
+      "title": "Green Day - Oh Love [Official Music Video]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=IWwMqa-_210",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 251,
+      "title": "Green Day - Bang Bang (Official Music Video)",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=wvu2-xQUNQI",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 252,
+      "title": "Green Day - Still Breathing [Official Music Video]",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=SUzsih7QJSY",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 253,
+      "title": "Green Day - Ordinary World feat. Miranda Lambert (Official Audio)",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=4jZ3C_s8wYw",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 254,
+      "title": "Green Day - Back In The USA (Official Music Video)",
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "sourceUrl": "https://www.youtube.com/watch?v=i9GSF3ROa58",
+      "parts": 1,
+      "cover": "audio/233/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 255,
+      "title": "Deftones - Around the Fur",
+      "artist": "My Music Harbourage",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=vz5GODsbImE",
+      "parts": 1,
+      "cover": "audio/255/cover.jpg",
+      "dateAdded": "2026-04-16"
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Twin Tribes",
+      "image": "profiles/twin.jpg"
+    },
+    {
+      "name": "wifiskeleton",
+      "image": "profiles/wifi.jpg"
+    },
+    {
+      "name": "ayowitty",
+      "image": "profiles/ayo.jpg"
+    },
+    {
+      "name": "Playboi Carti",
+      "image": "profiles/playy.jpg"
+    },
+    {
+      "name": "Kanye West",
+      "image": "profiles/ye.jpg"
+    },
+    {
+      "name": "keivmän",
+      "image": "profiles/kevin.jpg"
+    },
+    {
+      "name": "TRXSHBXY, GAVORN",
+      "image": "profiles/ye.jpg"
+    },
+    {
+      "name": "Toby Fox",
+      "image": "profiles/tob.jpg"
+    },
+    {
+      "name": "Michael Jackson",
+      "image": "profiles/mijuel.jpg"
+    },
+    {
+      "name": "EsDeeKid",
+      "image": "profiles/skid.jpg"
+    },
+    {
+      "name": "Tyler， The Creator",
+      "image": "profiles/tyler.jpg"
+    },
+    {
+      "name": "Nirvana",
+      "image": "profiles/nerv.jpg"
+    },
+    {
+      "name": "Gyakuten Saiban Sound Box",
+      "image": "profiles/anime2.jpg"
+    },
+    {
+      "name": "Green Day",
+      "image": "profiles/greend.jpg"
+    },
+    {
+      "name": "My Music Harbourage",
+      "image": null
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "name": "suburban daredevil",
+      "artist": "wifiskeleton",
+      "cover": "audio/2/cover.jpg"
+    },
+    {
+      "name": "MUSIC",
+      "artist": "Playboi Carti",
+      "cover": "audio/14/cover.jpg"
+    },
+    {
+      "name": "Whole Lotta Red",
+      "artist": "Playboi Carti",
+      "cover": "audio/45/cover.jpg"
+    },
+    {
+      "name": "BULLY",
+      "artist": "Kanye West",
+      "cover": "audio/69/cover.jpg"
+    },
+    {
+      "name": "UNDERTALE Soundtrack",
+      "artist": "Toby Fox",
+      "cover": "audio/88/cover.jpg"
+    },
+    {
+      "name": "Rebel",
+      "artist": "EsDeeKid",
+      "cover": "audio/142/cover.jpg"
+    },
+    {
+      "name": "DON'T TAP THE GLASS",
+      "artist": "Tyler， The Creator",
+      "cover": "audio/151/cover.jpg"
+    },
+    {
+      "name": "CHROMAKOPIA",
+      "artist": "Tyler， The Creator",
+      "cover": "audio/162/cover.jpg"
+    },
+    {
+      "name": "IGOR",
+      "artist": "Tyler， The Creator",
+      "cover": "audio/175/cover.jpg"
+    },
+    {
+      "name": "IGOR",
+      "artist": "Tyler, The Creator",
+      "cover": "audio/176/cover.jpg"
+    },
+    {
+      "name": "Nevermind",
+      "artist": "Nirvana",
+      "cover": "audio/187/cover.jpg"
+    },
+    {
+      "name": "Phoenix Wright Ace Attorney: Trials and Tribulations OST",
+      "artist": "Gyakuten Saiban Sound Box",
+      "cover": "audio/199/cover.jpg"
+    },
+    {
+      "name": "Greatest Hits: God's Favorite Band",
+      "artist": "Green Day",
+      "cover": "audio/233/cover.jpg"
+    }
+  ]
+}
