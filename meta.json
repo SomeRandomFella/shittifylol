@@ -2549,6 +2549,496 @@
       "parts": 1,
       "cover": "audio/255/cover.jpg",
       "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 256,
+      "title": "Tame Impala - Let It Happen (Official Video)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=pFptt7Cargc",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 257,
+      "title": "Tame Impala - Nangs (Audio)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=c3yEjD_oijw",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 258,
+      "title": "Tame Impala - The Moment (Audio)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=3Qpf9pAkUeI",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 259,
+      "title": "Tame Impala - Yes I'm Changing (Audio)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=D_cMCvudZBs",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 260,
+      "title": "Tame Impala - Eventually (Audio)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=GHe8kKO8uds",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 261,
+      "title": "Tame Impala - Gossip (Audio)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=NF0_IUZIUxs",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 262,
+      "title": "Tame Impala - The Less I Know The Better (Official Video)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=sBzrzS1Ag_g",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 263,
+      "title": "Tame Impala - Past Life (Audio)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=4kZ2W5f-H3k",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 264,
+      "title": "Tame Impala - Disciples (Audio)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=NTfYYRGTB3g",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 265,
+      "title": "Tame Impala - 'Cause I'm A Man (Official Video)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=hefh9dFnChY",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 266,
+      "title": "Tame Impala - Reality In Motion (Audio)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=hQN3RH_xWJg",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 267,
+      "title": "Tame Impala - Love/Paranoia (Audio)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=eI2c-Nrgsko",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 268,
+      "title": "Tame Impala - New Person, Same Old Mistakes (Audio)",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "sourceUrl": "https://www.youtube.com/watch?v=_9bw_VtMUGA",
+      "parts": 1,
+      "cover": "audio/256/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 269,
+      "title": "Arctic Monkeys - Brianstorm (Official Video)",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=30w8DyEJ__0",
+      "parts": 1,
+      "cover": "audio/269/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 270,
+      "title": "Teddy Picker",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=kidRr7s6zp4",
+      "parts": 1,
+      "cover": "audio/270/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 271,
+      "title": "D Is for Dangerous",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=pG7LoadAFVc",
+      "parts": 1,
+      "cover": "audio/270/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 272,
+      "title": "Balaclava",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=IJS_kuuYcXg",
+      "parts": 1,
+      "cover": "audio/270/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 273,
+      "title": "Arctic Monkeys - Fluorescent Adolescent (Official Video)",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=ma9I9VBKPiw",
+      "parts": 1,
+      "cover": "audio/269/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 274,
+      "title": "Only Ones Who Know",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=J_92Qv3Wyio",
+      "parts": 1,
+      "cover": "audio/270/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 275,
+      "title": "Do Me a Favour",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=4zuAMFC7-_4",
+      "parts": 1,
+      "cover": "audio/270/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 276,
+      "title": "This House Is a Circus",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=S9pmDV2vCyU",
+      "parts": 1,
+      "cover": "audio/270/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 277,
+      "title": "If You Were There, Beware",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=IggjuBwMR2I",
+      "parts": 1,
+      "cover": "audio/270/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 278,
+      "title": "The Bad Thing",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=JZ6DgIRb-XA",
+      "parts": 1,
+      "cover": "audio/270/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 279,
+      "title": "Old Yellow Bricks",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=VwEpFbUZmcs",
+      "parts": 1,
+      "cover": "audio/270/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 280,
+      "title": "505",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "sourceUrl": "https://www.youtube.com/watch?v=KfEEm4Zx-EU",
+      "parts": 1,
+      "cover": "audio/270/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 281,
+      "title": "Weezer - My Name Is Jonas (2024 Remaster)",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=qsXmTBTcHz8",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 282,
+      "title": "Weezer - No One Else (2024 Remaster)",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=M8DL8MuVWw8",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 283,
+      "title": "Weezer - The World Has Turned And Left Me Here (2024 Remaster)",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=0qhsvoiO-QY",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 284,
+      "title": "Weezer - Buddy Holly (2024 Remaster)",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=SiJie3Z7DG8",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 285,
+      "title": "Weezer - Undone (The Sweater Song) (2024 Remaster)",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=mLawKw3Qgig",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 286,
+      "title": "Weezer - Surf Wax America (2024 Remaster)",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=tG9CjNEjBuQ",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 287,
+      "title": "Weezer - Say It Ain't So (2024 Remaster)",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=OoPHItnUFkw",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 288,
+      "title": "Weezer - In The Garage (2024 Remaster)",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=T4D3Ay9cmr4",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 289,
+      "title": "Weezer - Holiday (2024 Remaster)",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=N1d6VVN4ufo",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 290,
+      "title": "Weezer - Only In Dreams (2024 Remaster)",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=vAoOJLpYKJ0",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 291,
+      "title": "Weezer - My Name Is Jonas - Live On BBC Evening Sessions - January 26, 1995",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=SSv7Yj3yiDE",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 292,
+      "title": "Weezer - In The Garage - Live On BBC Evening Sessions - January 26, 1995",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=5bh_PgXs6Js",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 293,
+      "title": "Weezer - No One Else - Live On BBC Evening Sessions - January 26, 1995",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=AR65C3vsmFY",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 294,
+      "title": "Weezer - Surf Wax America - Live On BBC Evening Sessions - January 26, 1995",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=fD3mp7kPb6k",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 295,
+      "title": "Weezer - Buddy Holly - Acoustic / Live At Greater London Radio - January 26, 1995",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=oardsYGPFPA",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 296,
+      "title": "Weezer - Undone - The Sweater Song - Acoustic / Live At Greater London Radio",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=vr7w6Ir7HBI",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 297,
+      "title": "Weezer - Say It Ain't So - The Kitchen Tape Demo - August 1, 1992",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=SnC0FCdKdYc",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 298,
+      "title": "Weezer - The World Has Turned And Left Me Here - The Kitchen Tape Demo - August 1, 1992",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=Q70-pWn1F3E",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 299,
+      "title": "Weezer - Paperface - The Kitchen Tape Demo - August 1, 1992",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=rkdtUO4nUmo",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 300,
+      "title": "Weezer - Undone - The Sweater Song - The Kitchen Tape Demo - August 1, 1992",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=khgVX5Lst7w",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 301,
+      "title": "Weezer - Thief, You've Taken All That Was Me - The Kitchen Tape Demo - August 1, 1992",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=ViKgEOboeVg",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 302,
+      "title": "Weezer - My Name Is Jonas - The Kitchen Tape Demo - August 1, 1992",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=PhCXfWnajrI",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 303,
+      "title": "Weezer - Let's Sew Our Pants Together - The Kitchen Tape Demo - August 1, 1992",
+      "artist": "weezer",
+      "album": "30 Years of The Blue Album!",
+      "sourceUrl": "https://www.youtube.com/watch?v=sGn9tkPZyx0",
+      "parts": 1,
+      "cover": "audio/281/cover.jpg",
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "id": 304,
+      "title": "\"Marshi I UÇK\" - Kosovo war song",
+      "artist": "Albanian Nationalist",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=I4_5UCO2yTg",
+      "parts": 1,
+      "cover": "audio/304/cover.jpg",
+      "dateAdded": "2026-04-16"
     }
   ],
   "profiles": [
@@ -2611,6 +3101,22 @@
     {
       "name": "My Music Harbourage",
       "image": null
+    },
+    {
+      "name": "Tame Impala",
+      "image": "profiles/tampa.jpg"
+    },
+    {
+      "name": "Arctic Monkeys",
+      "image": "profiles/monk.jpg"
+    },
+    {
+      "name": "weezer",
+      "image": "profiles/weez.jpg"
+    },
+    {
+      "name": "Albanian Nationalist",
+      "image": "profiles/alb.png"
     }
   ],
   "albums": [
@@ -2679,6 +3185,21 @@
       "name": "Greatest Hits: God's Favorite Band",
       "artist": "Green Day",
       "cover": "audio/233/cover.jpg"
+    },
+    {
+      "name": "Currents",
+      "artist": "Tame Impala",
+      "cover": "audio/256/cover.jpg"
+    },
+    {
+      "name": "Favourite Worst Nightmare",
+      "artist": "Arctic Monkeys",
+      "cover": "audio/270/cover.jpg"
+    },
+    {
+      "name": "30 Years of The Blue Album!",
+      "artist": "weezer",
+      "cover": "audio/281/cover.jpg"
     }
   ]
 }
