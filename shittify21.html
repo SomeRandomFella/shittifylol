@@ -1702,13 +1702,8 @@
 
       async function fetchMetaStuff() {
   try {
-    const res = await fetch(`meta.json?_=${Date.now()}`, {
-      method: "GET",
-      cache: "no-store", 
-      headers: {
-        "Cache-Control": "no-cache",
-        "Pragma": "no-cache"
-      }
+    const res = await fetch(`https://cdn.jsdelivr.net/gh/SomeRandomFella/shittifylol/meta.json?_=${Date.now()}`, {
+      cache: "no-store"
     });
 
     if (!res.ok) {
