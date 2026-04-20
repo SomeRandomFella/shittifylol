@@ -1791,6 +1791,7 @@
         const card = document.createElement("div");
         card.classList.add("card");
         const img = document.createElement("img");
+        card.setAttribute("title", song.name || song.title);
         img.src = song.cover || "";
         img.classList.add("title");
         const name = document.createElement("p");

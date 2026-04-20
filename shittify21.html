@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <title>Shittify</title>
     <link rel="icon" type="image/png" href="logo.png" />
-       <base href="https://cdn.jsdelivr.net/gh/SomeRandomFella/shittifylol/" />
+    <base href="https://cdn.jsdelivr.net/gh/SomeRandomFella/shittifylol/" />
     <style>
       @font-face {
         font-family: "Spotify Mix";
@@ -1794,6 +1794,7 @@
         const img = document.createElement("img");
         img.src = song.cover || "";
         img.classList.add("title");
+        card.setAttribute("title", song.name || song.title);
         const name = document.createElement("p");
         name.textContent = song.name || song.title;
         name.classList.add("song-name");
