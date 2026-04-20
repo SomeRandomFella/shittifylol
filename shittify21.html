@@ -1701,14 +1701,23 @@
       }
 
       async function fetchMetaStuff() {
-        const res = await fetch("meta.json");
-        if (!res.ok) {
-          console.error("couldn't get meta.json");
-          return null;
-        }
-        return await res.json();
-      }
+  try {
+    const res = await fetch(`https://cdn.jsdelivr.net/gh/SomeRandomFella/shittifylol/meta.json?_=${Date.now()}`, {
+      cache: "no-store"
+    });
 
+    if (!res.ok) {
+      console.error("couldn't get meta.json");
+      return null;
+    }
+
+    return await res.json();
+
+  } catch (err) {
+    console.error("fetch failed:", err);
+    return null;
+  }
+}
       async function loadUploaded() {
         const rows = await dbGetAll();
         allUploaded = rows;
