@@ -5679,6 +5679,1216 @@
       "parts": 1,
       "cover": "audio/569/cover.jpg",
       "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 570,
+      "title": "Spark",
+      "artist": "Poor Man's Poison",
+      "album": "Promised Land",
+      "sourceUrl": "https://www.youtube.com/watch?v=A2DXRjjjlFg",
+      "parts": 1,
+      "cover": "audio/570/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 571,
+      "title": "The Road",
+      "artist": "Poor Man's Poison",
+      "album": "Promised Land",
+      "sourceUrl": "https://www.youtube.com/watch?v=mpqOea1xmHU",
+      "parts": 1,
+      "cover": "audio/570/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 572,
+      "title": "Promised Land",
+      "artist": "Poor Man's Poison",
+      "album": "Promised Land",
+      "sourceUrl": "https://www.youtube.com/watch?v=vSlq8SlzPnY",
+      "parts": 1,
+      "cover": "audio/570/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 573,
+      "title": "At the Winds Will",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=DsIjNdy22lw",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 574,
+      "title": "Forget My Name",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=ANoSoaTOYTI",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 575,
+      "title": "Slow Down",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=svD_OZ4_odw",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 576,
+      "title": "A Foot Lost",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=xsQpkfTrN0s",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 577,
+      "title": "Always You",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=544XrtVsd-4",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 578,
+      "title": "Greedy Man",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=xHsr5LGzpSw",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 579,
+      "title": "Walkin",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=oQHe7fKcob0",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 580,
+      "title": "Christmas Beers",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=fr4qKlBuet0",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 581,
+      "title": "Hello Rain",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=ET09s1Wm5lY",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 582,
+      "title": "River Song",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=lrXlCz3f5yg",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 583,
+      "title": "Devils Price",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=KpW8-iI3nVg",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 584,
+      "title": "Long Way Home",
+      "artist": "Poor Man's Poison",
+      "album": "Poor Man's Poison",
+      "sourceUrl": "https://www.youtube.com/watch?v=O1Z4NEYN4Hc",
+      "parts": 1,
+      "cover": "audio/573/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 585,
+      "title": "Feed the Machine",
+      "artist": "Poor Man's Poison",
+      "album": "Feed the Machine",
+      "sourceUrl": "https://www.youtube.com/watch?v=BlnVP2_dIb4",
+      "parts": 1,
+      "cover": "audio/585/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 586,
+      "title": "Morgan Wallen - I’m The Problem (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=wIA-4LeRgsc",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 587,
+      "title": "Morgan Wallen - I Got Better (Official Music Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=hwUixddbmrQ",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 588,
+      "title": "Morgan Wallen - Superman (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=6wiUcsVuEh0",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 589,
+      "title": "Morgan Wallen - What I Want (feat. Tate McRae) (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=hNrwlzBeFN8",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 590,
+      "title": "Morgan Wallen - Just In Case (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=iw9wcJ7RZzY",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 591,
+      "title": "Morgan Wallen - Interlude (Audio)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=N7q4IalCAkQ",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 592,
+      "title": "Morgan Wallen - Falling Apart (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=qVZUcxFN2E8",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 593,
+      "title": "Morgan Wallen - Skoal, Chevy and Browning (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=EgbfJqJI2x0",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 594,
+      "title": "Morgan Wallen - Eyes Are Closed (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=KEjtbaWDVYw",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 595,
+      "title": "Morgan Wallen - Kick Myself (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=bW38jYPgbJ8",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 596,
+      "title": "Morgan Wallen - 20 Cigarettes (Official Music Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=pCv0oP9JLKw",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 597,
+      "title": "Morgan Wallen - TN (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=CMj3yeyOw2c",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 598,
+      "title": "Morgan Wallen - Missing (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=ADEPikhQ5Lg",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 599,
+      "title": "Morgan Wallen - Where'd That Girl Go (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=af6JsTi7fUY",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 600,
+      "title": "Morgan Wallen - Genesis (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=O6e6cbmiKqs",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 601,
+      "title": "Morgan Wallen - Revelation (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=qatdvWJDSHk",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 602,
+      "title": "Morgan Wallen - Number 3 and Number 7 (feat. Eric Church) (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=IO6qBvMDXiI",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 603,
+      "title": "Morgan Wallen - Kiss Her In Front Of You (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=cCK_I4AZ_F0",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 604,
+      "title": "Morgan Wallen - If You Were Mine (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=5yM819NbMMY",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 605,
+      "title": "Morgan Wallen - Don't We (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=1xvg5fHLhWM",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 606,
+      "title": "Morgan Wallen - Come Back As A Redneck (feat. HARDY) (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=Imjyp0PTHaQ",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 607,
+      "title": "Morgan Wallen - Love Somebody (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=zxMo0CZZzyg",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 608,
+      "title": "Morgan Wallen - Dark Til Daylight (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=8fq9uibhVMc",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 609,
+      "title": "Morgan Wallen - The Dealer (feat. ERNEST) (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=_rnxmZG0KHM",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 610,
+      "title": "Morgan Wallen - Leavin's The Least I Could Do (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=2cS0qCwBuHk",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 611,
+      "title": "Morgan Wallen - Jack and Jill (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=TIht2xh5aSo",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 612,
+      "title": "Morgan Wallen - I Ain't Comin' Back (feat. Post Malone) (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=4eBIUoUVMR4",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 613,
+      "title": "Morgan Wallen - Nothin' Left (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=-pP6Kl-nZoc",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 614,
+      "title": "Morgan Wallen - Drinking Til It Does (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=9bzMFgsRXD4",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 615,
+      "title": "Morgan Wallen - Smile (Official Music Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=F7KdQ8CTe5E",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 616,
+      "title": "Morgan Wallen - Working Man's Song (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=-MEfF9MpX_k",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 617,
+      "title": "Morgan Wallen - Whiskey In Reverse (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=bwPB0IPcK5Q",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 618,
+      "title": "Morgan Wallen - Crazy Eyes (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=mnyFUZvf3ec",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 619,
+      "title": "Morgan Wallen - LA Night (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=J8kV7rlrOp8",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 620,
+      "title": "Morgan Wallen - Miami (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=Lu25eTpwWLY",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 621,
+      "title": "Morgan Wallen - Lies Lies Lies (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=Qxo2ToDM-uE",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 622,
+      "title": "Morgan Wallen - I'm A Little Crazy (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "sourceUrl": "https://www.youtube.com/watch?v=BcCCBNoDVwk",
+      "parts": 1,
+      "cover": "audio/586/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 623,
+      "title": "BUTCHER VANITY ft. Yi Xi",
+      "artist": "Vane Lily",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=vjBFftpQxxM",
+      "parts": 1,
+      "cover": "audio/623/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 624,
+      "title": "rawdog ft. Hayden",
+      "artist": "FLAVOR FOLEY",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=HsZQOXZbWkQ",
+      "parts": 1,
+      "cover": "audio/624/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 625,
+      "title": "weathergirl ft. Eleanor Forte",
+      "artist": "FLAVOR FOLEY",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=M7VSEZOQIlg",
+      "parts": 1,
+      "cover": "audio/624/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 626,
+      "title": "炜WARD ROMANCE ft. Feng Yi",
+      "artist": "FLAVOR FOLEY",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=-eDYT_20YhM",
+      "parts": 1,
+      "cover": "audio/624/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 627,
+      "title": "Water the Roses ft. GUMI",
+      "artist": "FLAVOR FOLEY",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=NA3MJmcyPpE",
+      "parts": 1,
+      "cover": "audio/624/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 628,
+      "title": "Queen of Venus ft. Adachi Rei",
+      "artist": "FLAVOR FOLEY",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=EpbhsrYuQJ4",
+      "parts": 1,
+      "cover": "audio/624/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 629,
+      "title": "ELECTRIC WEEKEND ZONE ft. KAITO 【CircusP x FLAVOR FOLEY】",
+      "artist": "FLAVOR FOLEY",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=lOwCUMprBoY",
+      "parts": 1,
+      "cover": "audio/624/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 630,
+      "title": "Static ft. Hatsune Miku",
+      "artist": "FLAVOR FOLEY",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=KlTNKOnfXFk",
+      "parts": 1,
+      "cover": "audio/624/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 631,
+      "title": "Spoken For ft. Kasane Teto",
+      "artist": "FLAVOR FOLEY",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=LvYL8u4p-aM",
+      "parts": 1,
+      "cover": "audio/624/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 632,
+      "title": "Human ft. SF-A2 Miki",
+      "artist": "FLAVOR FOLEY",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=hbuNxmAXdNk",
+      "parts": 1,
+      "cover": "audio/624/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 633,
+      "title": "CONNECT:COMMUNE / FLAVOR FOLEY feat. Hatsune Miku",
+      "artist": "Hatsune Miku",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=cF91xil98Mc",
+      "parts": 1,
+      "cover": "audio/633/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 634,
+      "title": "Ego Renegade Boy ft. Kagamine Len",
+      "artist": "FLAVOR FOLEY",
+      "album": "FLAVOR FOLEY Full Discography",
+      "sourceUrl": "https://www.youtube.com/watch?v=OSYmTw6_bjc",
+      "parts": 1,
+      "cover": "audio/624/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 635,
+      "title": "Wrong Ones",
+      "artist": "Post Malone, Tim McGraw",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=1T6w0OLwXwA",
+      "parts": 1,
+      "cover": "audio/635/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 636,
+      "title": "Finer Things",
+      "artist": "Post Malone, Hank Williams Jr.",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=RyK9ZWProf0",
+      "parts": 1,
+      "cover": "audio/636/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 637,
+      "title": "I Had Some Help",
+      "artist": "Post Malone, Morgan Wallen",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=B8VEqSBTjZQ",
+      "parts": 1,
+      "cover": "audio/637/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 638,
+      "title": "Pour Me A Drink",
+      "artist": "Post Malone, Blake Shelton",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=Sj1RbyZO2ao",
+      "parts": 1,
+      "cover": "audio/638/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 639,
+      "title": "What Don't Belong To Me",
+      "artist": "Post Malone",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=I90cMRKmDBw",
+      "parts": 1,
+      "cover": "audio/639/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 640,
+      "title": "Country Music 2025 - Top Country Songs Playlist - Morgan Wallen Zach Bryan Luke Combs Thomas Rhett",
+      "artist": "Revive Music",
+      "album": "Post Malone - F-1 Trillion (Full Album)",
+      "sourceUrl": "https://www.youtube.com/watch?v=MvctVYj8gZ0",
+      "parts": 8,
+      "cover": "audio/640/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 641,
+      "title": "Have The Heart",
+      "artist": "Post Malone, Dolly Parton",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=xnKV0GyL710",
+      "parts": 1,
+      "cover": "audio/641/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 642,
+      "title": "Goes Without Saying",
+      "artist": "Post Malone, Brad Paisley",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=ngLZnzHRnpg",
+      "parts": 1,
+      "cover": "audio/642/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 643,
+      "title": "Guy For That",
+      "artist": "Post Malone, Luke Combs",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=M_4fjgShjNs",
+      "parts": 1,
+      "cover": "audio/643/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 644,
+      "title": "Nosedive",
+      "artist": "Post Malone, Lainey Wilson",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=8048K8EwNsE",
+      "parts": 1,
+      "cover": "audio/644/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 645,
+      "title": "Losers",
+      "artist": "Post Malone, Jelly Roll",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=IDn2OkSbfwA",
+      "parts": 1,
+      "cover": "audio/645/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 646,
+      "title": "Devil I've Been",
+      "artist": "Post Malone, ERNEST",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=8X26mGBHVcI",
+      "parts": 1,
+      "cover": "audio/646/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 647,
+      "title": "Never Love You Again",
+      "artist": "Post Malone, Sierra Ferrell",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=N1f0RU86X10",
+      "parts": 1,
+      "cover": "audio/647/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 648,
+      "title": "Missin’ You Like This",
+      "artist": "Post Malone, Luke Combs",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=AC-pt8sZoE8",
+      "parts": 1,
+      "cover": "audio/643/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 649,
+      "title": "California Sober",
+      "artist": "Post Malone, Chris Stapleton",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=8UnGwZ0riYs",
+      "parts": 1,
+      "cover": "audio/649/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 650,
+      "title": "Hide My Gun",
+      "artist": "Post Malone, HARDY",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=vplfgy5wyO4",
+      "parts": 1,
+      "cover": "audio/650/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 651,
+      "title": "Right About You",
+      "artist": "Post Malone",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=qgIe-MgowHA",
+      "parts": 1,
+      "cover": "audio/639/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 652,
+      "title": "M-E-X-I-C-O",
+      "artist": "Post Malone, Billy Strings",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ofx-jyaoEUE",
+      "parts": 1,
+      "cover": "audio/652/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 653,
+      "title": "Yours",
+      "artist": "Post Malone",
+      "album": "F-1 Trillion",
+      "sourceUrl": "https://www.youtube.com/watch?v=rcNGzWp_U0E",
+      "parts": 1,
+      "cover": "audio/639/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 654,
+      "title": "Post Malone - Fallin’ In Love (Lyric Video)",
+      "artist": "Post Malone",
+      "album": "Post Malone - F-1 Trillion (Full Album)",
+      "sourceUrl": "https://www.youtube.com/watch?v=vh6WAYt9zbs",
+      "parts": 1,
+      "cover": "audio/654/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 655,
+      "title": "Post Malone - Dead At The Honky Tonk (Lyric Video)",
+      "artist": "Post Malone",
+      "album": "Post Malone - F-1 Trillion (Full Album)",
+      "sourceUrl": "https://www.youtube.com/watch?v=kkRKVqlocw8",
+      "parts": 1,
+      "cover": "audio/654/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 656,
+      "title": "Post Malone - Killed A Man (Lyric Video)",
+      "artist": "Post Malone",
+      "album": "Post Malone - F-1 Trillion (Full Album)",
+      "sourceUrl": "https://www.youtube.com/watch?v=o_a1uTo9J6w",
+      "parts": 1,
+      "cover": "audio/654/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 657,
+      "title": "Post Malone - Ain’t How It Ends (Lyric Video)",
+      "artist": "Post Malone",
+      "album": "Post Malone - F-1 Trillion (Full Album)",
+      "sourceUrl": "https://www.youtube.com/watch?v=UIia2AwfRyA",
+      "parts": 1,
+      "cover": "audio/654/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 658,
+      "title": "Post Malone - Hey Mercedes (Lyric Video)",
+      "artist": "Post Malone",
+      "album": "Post Malone - F-1 Trillion (Full Album)",
+      "sourceUrl": "https://www.youtube.com/watch?v=YXHGflHHCCI",
+      "parts": 1,
+      "cover": "audio/654/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 659,
+      "title": "Post Malone - Go To Hell (Lyric Video)",
+      "artist": "Post Malone",
+      "album": "Post Malone - F-1 Trillion (Full Album)",
+      "sourceUrl": "https://www.youtube.com/watch?v=LnaqcrZdg5Y",
+      "parts": 1,
+      "cover": "audio/654/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 660,
+      "title": "Post Malone - Two Hearts (Lyric Video)",
+      "artist": "Post Malone",
+      "album": "Post Malone - F-1 Trillion (Full Album)",
+      "sourceUrl": "https://www.youtube.com/watch?v=lcDZYphg_WI",
+      "parts": 1,
+      "cover": "audio/654/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 661,
+      "title": "Post Malone - Who Needs You (Lyric Video)",
+      "artist": "Post Malone",
+      "album": "Post Malone - F-1 Trillion (Full Album)",
+      "sourceUrl": "https://www.youtube.com/watch?v=I90OOff3azU",
+      "parts": 1,
+      "cover": "audio/654/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 662,
+      "title": "Post Malone - Back To Texas (Lyric Video)",
+      "artist": "Post Malone",
+      "album": "Post Malone - F-1 Trillion (Full Album)",
+      "sourceUrl": "https://www.youtube.com/watch?v=ehAXq8n7gY0",
+      "parts": 1,
+      "cover": "audio/654/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 663,
+      "title": "GodFather",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=serneSItPvY",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 664,
+      "title": "SI QUIERES REPETIR",
+      "artist": "I.C.Y",
+      "album": "Fuerza Regida  111XPANTIA (Deluxe) | FULL ALBUM",
+      "sourceUrl": "https://www.youtube.com/watch?v=gFp2irswRp8",
+      "parts": 1,
+      "cover": "audio/664/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 665,
+      "title": "ayy weyy",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=ytFm-f65csk",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 666,
+      "title": "Nocturno",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=TwL76G4m-OA",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 667,
+      "title": "peliculiando",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=nTJkwEgf2-M",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 668,
+      "title": "CHAVALITAS",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=_XFvN4X-SGg",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 669,
+      "title": "Por Esos Ojos",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=i-jspl6r8qk",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 670,
+      "title": "ANSIEDAD",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=_Z2NQsLymaE",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 671,
+      "title": "TU SANCHO",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=4JiXW0pHjgw",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 672,
+      "title": "Marlboro Rojo",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=1Lso4aJ9PTA",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 673,
+      "title": "chufulas",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=3Mm-kQfiBTg",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 674,
+      "title": "CHAKA",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=5zLKvj7peiM",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 675,
+      "title": "caperuza",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=c9TexnIkSWE",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 676,
+      "title": "LOKiTA",
+      "artist": "Fuerza Regida, Anuel AA",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=XJmMJXpTz7g",
+      "parts": 1,
+      "cover": "audio/676/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 677,
+      "title": "Bubu",
+      "artist": "Fuerza Regida, Bellakath",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=8TyOAvzflTA",
+      "parts": 1,
+      "cover": "audio/677/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 678,
+      "title": "Como Tú",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=nReXJFYBy4Q",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 679,
+      "title": "ayy weyy",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=HZumCmrfm2o",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 680,
+      "title": "Nocturno",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=7h2kjzF1Pdw",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 681,
+      "title": "peliculiando",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=LhrFP6YXjkI",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 682,
+      "title": "CHAVALITAS",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=JDXsHi2t7vI",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 683,
+      "title": "Por Esos Ojos",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=z3Vl53qXyXQ",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 684,
+      "title": "ANSIEDAD",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=D6YZ3a-m0HE",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 685,
+      "title": "TU SANCHO",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=a_H0K9W984E",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 686,
+      "title": "Marlboro Rojo",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=U5zYN6H_9eA",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 687,
+      "title": "chufulas",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=hvpXOYvhISI",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 688,
+      "title": "CHAKA",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=5l4KgjCiDyM",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 689,
+      "title": "caperuza",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA",
+      "sourceUrl": "https://www.youtube.com/watch?v=iTJO-eGyEOo",
+      "parts": 1,
+      "cover": "audio/663/cover.jpg",
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 690,
+      "title": "GodFather",
+      "artist": "Fuerza Regida",
+      "album": "111XPANTIA (Deluxe)",
+      "sourceUrl": "https://www.youtube.com/watch?v=FpTLiOVttgw",
+      "parts": 1,
+      "cover": "audio/665/cover.jpg",
+      "dateAdded": "2026-04-21"
     }
   ],
   "profiles": [
@@ -5864,6 +7074,106 @@
     },
     {
       "name": "Katy Perry",
+      "image": null
+    },
+    {
+      "name": "Poor Man's Poison",
+      "image": null
+    },
+    {
+      "name": "Morgan Wallen",
+      "image": null
+    },
+    {
+      "name": "Vane Lily",
+      "image": null
+    },
+    {
+      "name": "FLAVOR FOLEY",
+      "image": null
+    },
+    {
+      "name": "Hatsune Miku",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Tim McGraw",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Hank Williams Jr.",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Morgan Wallen",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Blake Shelton",
+      "image": null
+    },
+    {
+      "name": "Post Malone",
+      "image": null
+    },
+    {
+      "name": "Revive Music",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Dolly Parton",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Brad Paisley",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Luke Combs",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Lainey Wilson",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Jelly Roll",
+      "image": null
+    },
+    {
+      "name": "Post Malone, ERNEST",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Sierra Ferrell",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Chris Stapleton",
+      "image": null
+    },
+    {
+      "name": "Post Malone, HARDY",
+      "image": null
+    },
+    {
+      "name": "Post Malone, Billy Strings",
+      "image": null
+    },
+    {
+      "name": "Fuerza Regida",
+      "image": null
+    },
+    {
+      "name": "I.C.Y",
+      "image": null
+    },
+    {
+      "name": "Fuerza Regida, Anuel AA",
+      "image": null
+    },
+    {
+      "name": "Fuerza Regida, Bellakath",
       "image": null
     }
   ],
@@ -6068,6 +7378,146 @@
       "name": "Ultrakill Fraud OST Playlist",
       "artist": "Hakita",
       "cover": "audio/553/cover.jpg"
+    },
+    {
+      "name": "Promised Land",
+      "artist": "Poor Man's Poison",
+      "cover": "audio/570/cover.jpg"
+    },
+    {
+      "name": "Poor Man's Poison",
+      "artist": "Poor Man's Poison",
+      "cover": "audio/573/cover.jpg"
+    },
+    {
+      "name": "I’m The Problem",
+      "artist": "Morgan Wallen",
+      "cover": "audio/586/cover.jpg"
+    },
+    {
+      "name": "FLAVOR FOLEY Full Discography",
+      "artist": "Vane Lily",
+      "cover": "audio/623/cover.jpg"
+    },
+    {
+      "name": "FLAVOR FOLEY Full Discography",
+      "artist": "FLAVOR FOLEY",
+      "cover": "audio/624/cover.jpg"
+    },
+    {
+      "name": "FLAVOR FOLEY Full Discography",
+      "artist": "Hatsune Miku",
+      "cover": "audio/633/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Tim McGraw",
+      "cover": "audio/635/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Hank Williams Jr.",
+      "cover": "audio/636/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Morgan Wallen",
+      "cover": "audio/637/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Blake Shelton",
+      "cover": "audio/638/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone",
+      "cover": "audio/639/cover.jpg"
+    },
+    {
+      "name": "Post Malone - F-1 Trillion (Full Album)",
+      "artist": "Revive Music",
+      "cover": "audio/640/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Dolly Parton",
+      "cover": "audio/641/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Brad Paisley",
+      "cover": "audio/642/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Luke Combs",
+      "cover": "audio/643/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Lainey Wilson",
+      "cover": "audio/644/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Jelly Roll",
+      "cover": "audio/645/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, ERNEST",
+      "cover": "audio/646/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Sierra Ferrell",
+      "cover": "audio/647/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Chris Stapleton",
+      "cover": "audio/649/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, HARDY",
+      "cover": "audio/650/cover.jpg"
+    },
+    {
+      "name": "F-1 Trillion",
+      "artist": "Post Malone, Billy Strings",
+      "cover": "audio/652/cover.jpg"
+    },
+    {
+      "name": "Post Malone - F-1 Trillion (Full Album)",
+      "artist": "Post Malone",
+      "cover": "audio/654/cover.jpg"
+    },
+    {
+      "name": "111XPANTIA",
+      "artist": "Fuerza Regida",
+      "cover": "audio/663/cover.jpg"
+    },
+    {
+      "name": "Fuerza Regida  111XPANTIA (Deluxe) | FULL ALBUM",
+      "artist": "I.C.Y",
+      "cover": "audio/664/cover.jpg"
+    },
+    {
+      "name": "111XPANTIA (Deluxe)",
+      "artist": "Fuerza Regida",
+      "cover": "audio/665/cover.jpg"
+    },
+    {
+      "name": "111XPANTIA (Deluxe)",
+      "artist": "Fuerza Regida, Anuel AA",
+      "cover": "audio/676/cover.jpg"
+    },
+    {
+      "name": "111XPANTIA (Deluxe)",
+      "artist": "Fuerza Regida, Bellakath",
+      "cover": "audio/677/cover.jpg"
     }
   ]
 }
