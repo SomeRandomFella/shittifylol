@@ -5643,7 +5643,7 @@
     {
       "id": 566,
       "title": "Artist Block: Reprise (feat. Logan Pettipas)",
-      "artist": "St4ticFilms, Logan Pettipas, Nathan Barling",
+      "artist": "St4ticFilms",
       "album": "Artist Block: Reprise",
       "sourceUrl": "https://www.youtube.com/watch?v=E0jO_n86UyQ",
       "parts": 1,
@@ -5653,8 +5653,8 @@
     {
       "id": 567,
       "title": "Let It Ride !",
-      "artist": "GRIM SAINT",
-      "album": "Let It Ride !",
+      "artist": "DIEM",
+      "album": "single",
       "sourceUrl": "https://www.youtube.com/watch?v=J_RRhxskc_U",
       "parts": 1,
       "cover": "audio/567/cover.jpg",
@@ -6889,6 +6889,416 @@
       "parts": 1,
       "cover": "audio/665/cover.jpg",
       "dateAdded": "2026-04-21"
+    },
+    {
+      "id": 691,
+      "title": "Uncovering Agarthan Technology In Minecraft...",
+      "artist": "llamarider37",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=p1WR0tudJA0",
+      "parts": 1,
+      "cover": "audio/691/gay.avif",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 692,
+      "title": "Is Bikini Bottom The Ocean Version of Israel?",
+      "artist": "llamarider37",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=ytK3YlJzrho",
+      "parts": 1,
+      "cover": "audio/692/aa.avif",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 693,
+      "title": "okaymar - need some more (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=70baKa5gUxY",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 694,
+      "title": "omgkeon - been too long (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=53c8tuvLe6g",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 695,
+      "title": "atl smook - still my patna (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=gFRSNTOTJ5w",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 696,
+      "title": "jojo! - attached (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=gZ3M5qJa51I",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 697,
+      "title": "spoof - bankroll (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=uRrnu1FhhgE",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 698,
+      "title": "riz - one for me (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=x4KqL3CnXJk",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 699,
+      "title": "jssr - numb (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=c8dlkrt25-w",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 700,
+      "title": "1oneam - stamped (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=Kf11uGzb03c",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 701,
+      "title": "ohsxnta - ghetto symphony (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=FcWSWP3nQKU",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 702,
+      "title": "spoof - bands gone (feat. jojo! & omgkeon) (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=xM03ENX_lXM",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 703,
+      "title": "benjicold - rave (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=xskaVFrtm_Q",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 704,
+      "title": "dom corleo - water (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=UW4AYhioknY",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 705,
+      "title": "wildkarduno - out of kontrol∕paparazzi (feat. thr33) (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=9GtNsfQXT3U",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 706,
+      "title": "thr33 - cassava leaf (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=lz0ZuKWSw24",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 707,
+      "title": "wildkarduno - yo lane (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=-w46fh0vzJo",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 708,
+      "title": "smokingskul - bta (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=RnmvGMcUITM",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 709,
+      "title": "wildkarduno - used to be (feat. smokingskul) (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=zM0GrrB0UVI",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 710,
+      "title": "okaymar - fried (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=rXuSjg0tjNA",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 711,
+      "title": "okaymar - what you said (feat. 1oneam) (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=UrpYJEHT1rc",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 712,
+      "title": "pasto flocco - swervo (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=ylwq7Wiu7-E",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 713,
+      "title": "okaymar - late night drinks (feat. 1oneam) (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=1jGlQyEuB9A",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 714,
+      "title": "1oneam - face card (feat. okaymar) (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=Zb7dFwlz40g",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 715,
+      "title": "ohsxnta - make it work (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=e-Ek0uKvuLs",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 716,
+      "title": "1oneam - hope you know (prod. tdf)",
+      "artist": "xa_pd",
+      "album": "tdf - CULTURE",
+      "sourceUrl": "https://www.youtube.com/watch?v=DWCNSGyjsoo",
+      "parts": 1,
+      "cover": "audio/693/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 717,
+      "title": "Bibi ya Habibi (Pro Netanyahu song)",
+      "artist": "Tsadik",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=32oRZIkur44",
+      "parts": 1,
+      "cover": "audio/717/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 718,
+      "title": "Monika vs Benjamin Netanyahu - Rap Battle",
+      "artist": "zek eggy",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=TFyUl4nXc_4",
+      "parts": 1,
+      "cover": "audio/718/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 719,
+      "title": "Jelly Roll - Halfway To Hell (Official Audio)",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=rXRV-BOwr_I",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 720,
+      "title": "Jelly Roll - Unlive (with Yelawolf) [Official Audio]",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=vjwPKjxI3tI",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 721,
+      "title": "Jelly Roll - \"NEED A FAVOR\" (Official Music Video)",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=P1nRboaLTzU",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 722,
+      "title": "Jelly Roll - she (Official Music Video)",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=SigkFyo0uWM",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 723,
+      "title": "Jelly Roll - Save Me (with Lainey Wilson) [Official Audio]",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=7_eXiEbx1e0",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 724,
+      "title": "Jelly Roll - Church (Official Audio)",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=mc0f3EznaYE",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 725,
+      "title": "Jelly Roll - The Lost (Official Audio)",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=FJ77I2rA4to",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 726,
+      "title": "Jelly Roll - Behind Bars (with Brantley Gilbert and Struggle Jennings) [Official Audio]",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=NYnGaKwbbak",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 727,
+      "title": "Jelly Roll - Nail Me (Official Audio)",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=B657O1juXVI",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 728,
+      "title": "Jelly Roll - Hold On Me (Official Audio)",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=GPMNyDTGDqw",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 729,
+      "title": "Jelly Roll - Kill A Man (Official Audio)",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=5H1we_T3YKE",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 730,
+      "title": "Jelly Roll - Dancing With The Devil (Official Audio)",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=seJ0trSfWwU",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
+    },
+    {
+      "id": 731,
+      "title": "Jelly Roll - Hungover In A Church Pew (Official Audio)",
+      "artist": "Jelly Roll",
+      "album": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "sourceUrl": "https://www.youtube.com/watch?v=21rFGD5UJjw",
+      "parts": 1,
+      "cover": "audio/719/cover.jpg",
+      "dateAdded": "2026-04-23"
     }
   ],
   "profiles": [
@@ -7061,120 +7471,60 @@
       "image": "profiles/queen.jpg"
     },
     {
-      "name": "St4ticFilms, Logan Pettipas, Nathan Barling",
-      "image": null
-    },
-    {
-      "name": "GRIM SAINT",
-      "image": null
+      "name": "St4ticFilms",
+      "image": "profiles/static.jpg"
     },
     {
       "name": "DIEM",
-      "image": null
+      "image": "profiles/die.jpg"
     },
     {
       "name": "Katy Perry",
-      "image": null
+      "image": "profiles/katy.jpg"
     },
     {
       "name": "Poor Man's Poison",
-      "image": null
+      "image": "profiles/poor.jpg"
     },
     {
       "name": "Morgan Wallen",
-      "image": null
+      "image": "profiles/mor.jpg"
     },
     {
       "name": "Vane Lily",
-      "image": null
+      "image": "profiles/vane.jpg"
     },
     {
       "name": "FLAVOR FOLEY",
-      "image": null
+      "image": "profiles/flav.jpg"
     },
     {
       "name": "Hatsune Miku",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Tim McGraw",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Hank Williams Jr.",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Morgan Wallen",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Blake Shelton",
-      "image": null
+      "image": "profiles/hats.jpg"
     },
     {
       "name": "Post Malone",
-      "image": null
-    },
-    {
-      "name": "Revive Music",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Dolly Parton",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Brad Paisley",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Luke Combs",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Lainey Wilson",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Jelly Roll",
-      "image": null
-    },
-    {
-      "name": "Post Malone, ERNEST",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Sierra Ferrell",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Chris Stapleton",
-      "image": null
-    },
-    {
-      "name": "Post Malone, HARDY",
-      "image": null
-    },
-    {
-      "name": "Post Malone, Billy Strings",
-      "image": null
+      "image": "profiles/post.jpg"
     },
     {
       "name": "Fuerza Regida",
-      "image": null
+      "image": "profiles/fur.jpg"
     },
     {
-      "name": "I.C.Y",
-      "image": null
+      "name": "xa_pd",
+      "image": "profiles/xa.jpg"
     },
     {
-      "name": "Fuerza Regida, Anuel AA",
-      "image": null
+      "name": "Tsadik",
+      "image": "profiles/tsa.jpg"
     },
     {
-      "name": "Fuerza Regida, Bellakath",
-      "image": null
+      "name": "zek eggy",
+      "image": "profiles/zek.jpg"
+    },
+    {
+      "name": "Jelly Roll",
+      "image": "profiles/jell.jpg"
     }
   ],
   "albums": [
@@ -7268,11 +7618,6 @@
       "name": "The Party Never Ends 2.0",
       "artist": "The Kid LAROI",
       "cover": "audio/314/cover.jpg"
-    },
-    {
-      "name": "Fighting Demons (Digital Deluxe)",
-      "artist": "Juice WRLD",
-      "cover": "audio/324/cover.jpg"
     },
     {
       "name": "Fighting Demons",
@@ -7411,98 +7756,13 @@
     },
     {
       "name": "F-1 Trillion",
-      "artist": "Post Malone, Tim McGraw",
-      "cover": "audio/635/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, Hank Williams Jr.",
-      "cover": "audio/636/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, Morgan Wallen",
-      "cover": "audio/637/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, Blake Shelton",
-      "cover": "audio/638/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
       "artist": "Post Malone",
       "cover": "audio/639/cover.jpg"
-    },
-    {
-      "name": "Post Malone - F-1 Trillion (Full Album)",
-      "artist": "Revive Music",
-      "cover": "audio/640/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, Dolly Parton",
-      "cover": "audio/641/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, Brad Paisley",
-      "cover": "audio/642/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, Luke Combs",
-      "cover": "audio/643/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, Lainey Wilson",
-      "cover": "audio/644/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, Jelly Roll",
-      "cover": "audio/645/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, ERNEST",
-      "cover": "audio/646/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, Sierra Ferrell",
-      "cover": "audio/647/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, Chris Stapleton",
-      "cover": "audio/649/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, HARDY",
-      "cover": "audio/650/cover.jpg"
-    },
-    {
-      "name": "F-1 Trillion",
-      "artist": "Post Malone, Billy Strings",
-      "cover": "audio/652/cover.jpg"
-    },
-    {
-      "name": "Post Malone - F-1 Trillion (Full Album)",
-      "artist": "Post Malone",
-      "cover": "audio/654/cover.jpg"
     },
     {
       "name": "111XPANTIA",
       "artist": "Fuerza Regida",
       "cover": "audio/663/cover.jpg"
-    },
-    {
-      "name": "Fuerza Regida  111XPANTIA (Deluxe) | FULL ALBUM",
-      "artist": "I.C.Y",
-      "cover": "audio/664/cover.jpg"
     },
     {
       "name": "111XPANTIA (Deluxe)",
@@ -7518,6 +7778,16 @@
       "name": "111XPANTIA (Deluxe)",
       "artist": "Fuerza Regida, Bellakath",
       "cover": "audio/677/cover.jpg"
+    },
+    {
+      "name": "tdf - CULTURE",
+      "artist": "xa_pd",
+      "cover": "audio/693/cover.jpg"
+    },
+    {
+      "name": "Jelly Roll - WHITSITT CHAPEL Playlist",
+      "artist": "Jelly Roll",
+      "cover": "audio/719/cover.jpg"
     }
   ]
 }
