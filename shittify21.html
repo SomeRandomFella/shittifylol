@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <title>Shittify</title>
-    <link rel="icon" type="image/png" href="logo.png" />
     <base href="https://cdn.jsdelivr.net/gh/SomeRandomFella/shittifylol/" />
+    <link rel="icon" type="image/png" href="logo.png" />
     <style>
       @font-face {
         font-family: "Spotify Mix";
@@ -1100,7 +1100,7 @@
             margin-right: 5px;
           "
         >
-          made by amir
+          made by plankton
         </p>
       </div>
     </header>
@@ -1229,8 +1229,12 @@
       let metaJson = { songs: [], albums: [], profiles: [] };
       let currentAudio;
       let allNewSongs = [];
+      // FIX 1: separate full list (unsliced) for "Show all" on New Additions
+      let allNewSongsFull = [];
       let allArtists = [];
       let allAlbums = [];
+      // FIX 2: separate full shuffled list for "Show all" on Albums & Singles
+      let allAlbumsFull = [];
       let allUploaded = [];
       let db;
 
@@ -1701,23 +1705,14 @@
       }
 
       async function fetchMetaStuff() {
-  try {
-    const res = await fetch(`https://cdn.jsdelivr.net/gh/SomeRandomFella/shittifylol/meta.json?_=${Date.now()}`, {
-      cache: "no-store"
-    });
+        const res = await fetch("meta.json");
+        if (!res.ok) {
+          console.error("couldn't get meta.json");
+          return null;
+        }
+        return await res.json();
+      }
 
-    if (!res.ok) {
-      console.error("couldn't get meta.json");
-      return null;
-    }
-
-    return await res.json();
-
-  } catch (err) {
-    console.error("fetch failed:", err);
-    return null;
-  }
-}
       async function loadUploaded() {
         const rows = await dbGetAll();
         allUploaded = rows;
@@ -1801,9 +1796,9 @@
         const card = document.createElement("div");
         card.classList.add("card");
         const img = document.createElement("img");
+        card.setAttribute("title", song.name || song.title);
         img.src = song.cover || "";
         img.classList.add("title");
-        card.setAttribute("title", song.name || song.title);
         const name = document.createElement("p");
         name.textContent = song.name || song.title;
         name.classList.add("song-name");
@@ -1888,7 +1883,9 @@
 
       function populateHomeSections() {
         const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
-        allNewSongs = Array.from(
+
+        // FIX 1: build the full unsliced new-additions list first, then slice 12 for the home row
+        allNewSongsFull = Array.from(
           new Map(
             metaJson.songs
               .filter((song) => {
@@ -1899,7 +1896,6 @@
               .map((song) => {
                 const displayName =
                   song.album === "single" ? song.title : song.album;
-
                 const cover = resolveAlbumCover(song);
                 return [
                   displayName,
@@ -1915,11 +1911,13 @@
                 ];
               }),
           ).values(),
-        ).slice(0, 12);
+        );
+        allNewSongs = allNewSongsFull.slice(0, 12);
 
         allArtists = shuffle(metaJson.profiles);
 
-        allAlbums = shuffle(
+        // FIX 2: build the full shuffled albums list, then slice 12 for the home row
+        allAlbumsFull = shuffle(
           Array.from(
             new Map([
               ...metaJson.songs.map((song) => {
@@ -1957,7 +1955,8 @@
               ]),
             ]).values(),
           ),
-        ).slice(0, 12);
+        );
+        allAlbums = allAlbumsFull.slice(0, 12);
 
         const newContainer = document.getElementById("cards-new");
         const artistsContainer = document.getElementById("cards-artists");
@@ -2015,7 +2014,8 @@
         if (cat === "new") {
           title.textContent = "New Additions";
           songsStuff.appendChild(title);
-          allNewSongs.forEach((song) =>
+          // FIX 1: use allNewSongsFull so all new songs are shown, not just 12
+          allNewSongsFull.forEach((song) =>
             grid.appendChild(makeCard(song, () => openSong(song))),
           );
         } else if (cat === "artists") {
@@ -2029,40 +2029,8 @@
         } else if (cat === "albums") {
           title.textContent = "All Albums & Singles";
           songsStuff.appendChild(title);
-          const full = Array.from(
-            new Map([
-              ...metaJson.songs.map((song) => {
-                const displayName =
-                  song.album === "single" ? song.title : song.album;
-                const cover = resolveAlbumCover(song);
-                return [
-                  displayName,
-                  {
-                    id: song.id,
-                    title: song.title,
-                    name: displayName,
-                    album: song.album,
-                    artist: song.artist,
-                    cover,
-                    parts: song.parts,
-                  },
-                ];
-              }),
-              ...metaJson.albums.map((album) => [
-                album.name,
-                {
-                  id: album.id,
-                  title: album.name,
-                  name: album.name,
-                  album: album.name,
-                  artist: album.artist || null,
-                  cover: album.cover,
-                  parts: album.parts || [],
-                },
-              ]),
-            ]).values(),
-          );
-          full.forEach((song) =>
+          // FIX 2: use allAlbumsFull (already shuffled) instead of rebuilding unshuffled
+          allAlbumsFull.forEach((song) =>
             grid.appendChild(makeCard(song, () => openSong(song))),
           );
         } else if (cat === "uploaded") {
