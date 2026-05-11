@@ -9629,6 +9629,16 @@
       "parts": 1,
       "cover": "audio/963/cover.jpg",
       "dateAdded": "2026-05-08"
+    },
+    {
+      "id": 965,
+      "title": "Аттар, Аттар - Horses, Horses [Old Turkic war song]",
+      "artist": "NamelessMan",
+      "album": "single",
+      "sourceUrl": "https://www.youtube.com/watch?v=vnNyKHPvv8E",
+      "parts": 1,
+      "cover": "audio/965/cover.jpg",
+      "dateAdded": "2026-05-11"
     }
   ],
   "profiles": [
@@ -9959,6 +9969,10 @@
     {
       "name": "LastGangRadio",
       "image": "profiles/LastGangRadio.jpg"
+    },
+    {
+      "name": "NamelessMan",
+      "image": "profiles/NamelessMan.jpg"
     }
   ],
   "albums": [

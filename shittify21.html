@@ -1705,11 +1705,16 @@
       }
 
       async function fetchMetaStuff() {
-        const res = await fetch("meta.json");
+        const res = await fetch(
+          "https://cdn.jsdelivr.net/gh/SomeRandomFella/shittifylol/meta.json",
+          { cache: "no-store" },
+        );
+
         if (!res.ok) {
           console.error("couldn't get meta.json");
           return null;
         }
+
         return await res.json();
       }
 
