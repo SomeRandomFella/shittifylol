@@ -1228,18 +1228,12 @@
       let metaJson = { songs: [], albums: [], profiles: [] };
       let currentAudio;
       let allNewSongs = [];
-      // FIX 1: separate full list (unsliced) for "Show all" on New Additions
       let allNewSongsFull = [];
       let allArtists = [];
       let allAlbums = [];
-      // FIX 2: separate full shuffled list for "Show all" on Albums & Singles
       let allAlbumsFull = [];
       let allUploaded = [];
       let db;
-
-      alert(
-        "HEY!!! THIS IS IN VERY EARLY BETA, THERE ARENT MANY SONGS/ALBUMS RECCOMEND ME SOME TO ADD IN ISSUES AND REQUESTS IN THE TOP RIGHT, ALSO NOT VERY SIMILAR TO SPOTIFY AS ION USE IT. BTW loading songs on first load will take a while BE PATIENT have fun",
-      );
 
       window.addEventListener("load", () => {
         const splash = document.getElementById("splash");
