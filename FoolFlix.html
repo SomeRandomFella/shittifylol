@@ -178,7 +178,6 @@
     const dialogMeta = document.querySelector("#dialog-meta");
     const dialogTitle = document.querySelector("#dialog-title");
     const dialogOverview = document.querySelector("#dialog-overview");
-    const dialogStream = document.querySelector("#dialog-stream");
     const dialogStreamButton = document.querySelector("#dialog-stream-button");
     const navButtons = Array.from(document.querySelectorAll(".nav-button"));
     const loadMore = document.querySelector("#load-more");
@@ -236,7 +235,6 @@
     }
     async function openStream(item) {
       const url = playerUrl(item);
-      dialogStream.textContent = url;
       playerTitle.textContent = titleFor(item);
       playerFrame.src = url;
       if (dialog.open) dialog.close();
@@ -278,7 +276,6 @@
       dialogMeta.textContent = `${typeFor(item)} | ${dateFor(item).slice(0, 4) || "unknown"} | ${ratingFor(item)}`;
       dialogTitle.textContent = titleFor(item);
       dialogOverview.textContent = item.overview || "no overview available yet.";
-      dialogStream.textContent = playerUrl(item);
       dialogStreamButton.onclick = () => openStream(item);
       dialog.showModal();
     }
