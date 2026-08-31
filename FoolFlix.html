@@ -17,7 +17,7 @@
     button, input, select { font: inherit; }
     .topbar {
       position: sticky; top: 0; z-index: 10;
-      display: grid; grid-template-columns: auto 1fr minmax(220px, 340px);
+      display: grid; grid-template-columns: auto 1fr minmax(280px, 520px);
       align-items: center; gap: 22px; padding: 18px 34px;
       background: #050505; border-bottom: 1px solid #1e1e1e;
     }
@@ -32,7 +32,7 @@
       text-decoration: none; white-space: nowrap;
     }
     .nav-button.is-active, .search button, .hero-actions button.primary, .load-more { background: #e50914; }
-    .search { display: grid; grid-template-columns: auto 1fr auto; gap: 8px; }
+    .search { display: grid; grid-template-columns: auto auto 1fr auto; gap: 8px; }
     .search input, .search select {
       min-width: 0; border: 1px solid #333333; border-radius: 6px;
       padding: 10px 12px; background: #111111; color: #ffffff;
@@ -113,7 +113,12 @@
     </nav>
     <form class="search" id="search-form">
       <select id="server-select" aria-label="server"><option value="">auto server</option></select>
-      <input id="search-input" name="q" type="search" placeholder="search titles" autocomplete="off">
+      <select id="search-type" aria-label="search type">
+        <option value="all">movies + shows</option>
+        <option value="movie">movies</option>
+        <option value="tv">shows</option>
+      </select>
+      <input id="search-input" name="q" type="search" placeholder="search titles or TMDB ids" autocomplete="off">
       <button type="submit">search</button>
     </form>
   </header>
@@ -171,6 +176,7 @@
     const heroStream = document.querySelector("#hero-stream");
     const searchForm = document.querySelector("#search-form");
     const searchInput = document.querySelector("#search-input");
+    const searchType = document.querySelector("#search-type");
     const serverSelect = document.querySelector("#server-select");
     const dialog = document.querySelector("#details-dialog");
     const closeDetails = document.querySelector("#close-details");
@@ -198,10 +204,29 @@
 
     function titleFor(item) { return item.title || item.name || "untitled"; }
     function dateFor(item) { return item.release_date || item.first_air_date || ""; }
-    function posterFor(item, size = "w500") { return item.poster_path ? `${imageBase}/${size}${item.poster_path}` : ""; }
+    function prettyType(type) { return type === "tv" ? "show" : "movie"; }
+    function posterPlaceholder(item) {
+      const label = encodeURIComponent(`${prettyType(typeFor(item))} id ${item.id}`);
+      return `data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 750'%3E%3Crect width='500' height='750' fill='%23181818'/%3E%3Ctext x='250' y='360' fill='%23f5f5f5' font-family='Arial,sans-serif' font-size='38' font-weight='700' text-anchor='middle'%3E${label}%3C/text%3E%3Ctext x='250' y='410' fill='%23a3a3a3' font-family='Arial,sans-serif' font-size='28' text-anchor='middle'%3ETMDB%3C/text%3E%3C/svg%3E`;
+    }
+    function posterFor(item, size = "w500") { return item.poster_path ? `${imageBase}/${size}${item.poster_path}` : posterPlaceholder(item); }
     function backdropFor(item) { return item.backdrop_path ? `${imageBase}/original${item.backdrop_path}` : ""; }
     function typeFor(item) { return item.media_type || item._type || (item.first_air_date ? "tv" : "movie"); }
     function ratingFor(item) { return Number.isFinite(item.vote_average) ? item.vote_average.toFixed(1) : "n/a"; }
+    function selectedSearchTypes() { return currentType === "all" ? ["movie", "tv"] : [currentType]; }
+    function isIdSearch(query) { return /^\d+$/.test(query); }
+    function itemForId(query, type) {
+      const name = `${prettyType(type).replace(/^./, (letter) => letter.toUpperCase())} ID ${query}`;
+      return {
+        id: query,
+        title: type === "movie" ? name : undefined,
+        name: type === "tv" ? name : undefined,
+        overview: `Ready to play ${prettyType(type)} TMDB id ${query}.`,
+        vote_average: null,
+        _type: type,
+        _fromIdSearch: true
+      };
+    }
     function setStatus(message) { statusText.textContent = message; }
     async function getJson(path) {
       const response = await fetch(`${apiBase}${path}`);
@@ -279,8 +304,26 @@
       dialogStreamButton.onclick = () => openStream(item);
       dialog.showModal();
     }
+    async function getSearchPage(page) {
+      if (isIdSearch(currentQuery)) {
+        return {
+          results: selectedSearchTypes().map((type) => itemForId(currentQuery, type)),
+          total_pages: 1
+        };
+      }
+      const pages = await Promise.all(selectedSearchTypes().map(async (type) => {
+        const data = await getJson(`/api/movies/search?q=${encodeURIComponent(currentQuery)}&type=${type}&page=${page}`);
+        return {
+          total_pages: data.total_pages || page,
+          results: (data.results || []).map((item) => ({ ...item, _type: item.media_type || item._type || type }))
+        };
+      }));
+      return {
+        results: pages.flatMap((data) => data.results),
+        total_pages: Math.max(...pages.map((data) => data.total_pages), page)
+      };
+    }
     function endpointForPage(page) {
-      if (currentMode === "search") return `/api/movies/search?q=${encodeURIComponent(currentQuery)}&type=${currentType}&page=${page}`;
       if (currentFeed === "trending") return `/api/movies/trending?type=${currentType}&page=${page}`;
       if (currentFeed === "top-rated") return `/api/movies/top-rated?type=${currentType}&page=${page}`;
       return `/api/movies/discover?type=${currentType}&page=${page}`;
@@ -301,10 +344,10 @@
         grid.replaceChildren();
       }
       const nextPage = currentPage + 1;
-      const data = await getJson(endpointForPage(nextPage));
-      const incoming = (data.results || []).map((item) => ({ ...item, _type: currentType })).filter((item) => {
+      const data = currentMode === "search" ? await getSearchPage(nextPage) : await getJson(endpointForPage(nextPage));
+      const incoming = (data.results || []).map((item) => ({ ...item, _type: item.media_type || item._type || currentType })).filter((item) => {
         const mediaType = typeFor(item);
-        return (mediaType === "movie" || mediaType === "tv") && item.poster_path;
+        return (mediaType === "movie" || mediaType === "tv") && (item.poster_path || item._fromIdSearch);
       });
       totalPages = Math.min(data.total_pages || nextPage, 500);
       currentPage = nextPage;
@@ -331,6 +374,7 @@
       currentLabel = button.dataset.label;
       currentQuery = "";
       searchInput.value = "";
+      searchType.value = "all";
       loadNextPage(true).catch((error) => failLoad("feed", error));
     }
     searchForm.addEventListener("submit", (event) => {
@@ -339,9 +383,9 @@
       if (!query) return;
       navButtons.forEach((item) => item.classList.remove("is-active"));
       currentMode = "search";
-      currentType = "movie";
+      currentType = searchType.value;
       currentQuery = query;
-      currentLabel = `search: ${query}`;
+      currentLabel = `${isIdSearch(query) ? "id" : "search"} ${searchType.options[searchType.selectedIndex].textContent}: ${query}`;
       loadNextPage(true).catch((error) => failLoad("search", error));
     });
     for (const button of navButtons) button.addEventListener("click", () => setFeed(button));
