@@ -523,7 +523,7 @@
       .tab-home h1 span { color:#888; font-weight:400; }
       .tab-home input { width:min(460px,100%); height:40px; padding:0 12px; background:#111; border:1px solid #555; border-radius:2px; font-size:14px; box-shadow:none; }
       .tab-home input:focus { border-color:#aaa; outline:1px solid #aaa; outline-offset:0; }
-      .home-shortcuts { display:flex; justify-content:flex-start; width:min(460px,100%); gap:22px; margin-top:12px; }
+      .home-shortcuts { display:flex; flex-wrap:wrap; justify-content:flex-start; width:min(460px,100%); gap:22px; margin-top:12px; }
       .home-shortcut { flex-direction:row; justify-content:flex-start; gap:0; height:32px; padding:0; background:none; border:0; border-radius:0; font-size:13px; color:#aaa; text-decoration:underline; text-underline-offset:3px; }
       .home-shortcut:hover { background:none; border:0; color:#eee; }
       .home-shortcut-icon { display:none; }
@@ -671,8 +671,9 @@
         <h1>buh <span>proxy</span></h1>
         <input class="home-search" autocomplete="off" spellcheck="false" placeholder="Search or enter URL" />
         <div class="home-shortcuts">
-          <button class="home-shortcut" data-url="https://slack.com" title="Open Slack"><span class="home-shortcut-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg></span>slack</button>
-          <button class="home-shortcut" data-url="https://invidious.f5.si/" title="Open YouTube through Invidious"><span class="home-shortcut-icon video"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12.296 3.464 3.02 3.956"/><path d="M20.2 6 3 11l-.9-2.4c-.3-1.1.3-2.2 1.3-2.5l13.5-4c1.1-.3 2.2.3 2.5 1.3z"/><path d="M3 11h18v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="m6.18 5.276 3.1 3.899"/></svg></span>YouTube</button>
+          <button class="home-shortcut" data-url="https://mangakatana.com/" title="Open MangaKatana">Manga</button>
+          <button class="home-shortcut" data-url="https://duck.ai/" title="Open DuckDuckGo AI"><span class="home-shortcut-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg></span>DuckDuckGo AI</button>
+          <button class="home-shortcut" data-url="https://inv.nadeko.net/feed/popular" title="Open YouTube through Invidious"><span class="home-shortcut-icon video"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12.296 3.464 3.02 3.956"/><path d="M20.2 6 3 11l-.9-2.4c-.3-1.1.3-2.2 1.3-2.5l13.5-4c1.1-.3 2.2.3 2.5 1.3z"/><path d="M3 11h18v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="m6.18 5.276 3.1 3.899"/></svg></span>YouTube</button>
           <button class="home-shortcut" data-url="https://soundcloud.com/" title="Open SoundCloud"><span class="home-shortcut-icon audio"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 10v3"/><path d="M6 6v11"/><path d="M10 3v18"/><path d="M14 8v7"/><path d="M18 5v13"/><path d="M22 10v3"/></svg></span>SoundCloud</button>
         </div>
       </div>
@@ -682,10 +683,17 @@
       (() => {
         "use strict";
 
-        const backendOrigin = "https://sfools-stuff-342b8fbbb030.herokuapp.com";
+        const backendOrigin = /^https?:$/.test(location.protocol)
+          ? location.origin
+          : "http://localhost:3000";
 
         if (localStorage.getItem("buhBackendDefault") !== backendOrigin) {
-          localStorage.setItem("doomProxyBackend", defaultBackendTemplate());
+          const savedBackend = localStorage.getItem("doomProxyBackend");
+          const previousDefault = localStorage.getItem("buhBackendDefault");
+          if (!savedBackend || savedBackend === previousDefault + "/doom/raw?u={url}" ||
+              savedBackend === "https://sfools-stuff-342b8fbbb030.herokuapp.com/doom/raw?u={url}") {
+            localStorage.setItem("doomProxyBackend", defaultBackendTemplate());
+          }
           localStorage.setItem("buhBackendDefault", backendOrigin);
         }
 
