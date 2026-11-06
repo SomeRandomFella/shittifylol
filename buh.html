@@ -685,7 +685,7 @@
 
         const backendOrigin = /^https?:$/.test(location.protocol)
           ? location.origin
-          : "http://localhost:3000";
+          : "https://sfools-stuff-342b8fbbb030.herokuapp.com/";
 
         if (localStorage.getItem("buhBackendDefault") !== backendOrigin) {
           const savedBackend = localStorage.getItem("doomProxyBackend");
